@@ -1,0 +1,1002 @@
+Age,Gender,Employment Status,Education Status (Currently Pursuing),Hours
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+25 - 31,Male,Service,Graduation,Less than 1 hour
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Unemployed,Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Male,Service,Professional Degree,2 - 4 hours
+18 - 24,Male,Student,Graduation,Above 6 hours
+18 - 24,Female,Self -  Employed,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Professional Degree,1 - 2 hours
+18 - 24,Male,Student,HSC (12th Grade),2 - 4 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+32 - 38,Male,Service,Post Graduation,1 - 2 hours
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Professional Degree,1 - 2 hours
+25 - 31,Male,Self -  Employed,Graduation,1 - 2 hours
+25 - 31,Male,Self -  Employed,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+39 - 45,Female,Service,Graduation,Less than 1 hour
+18 - 24,Male,Student,Graduation,2 - 4 hours
+25 - 31,Female,Service,Graduation,2 - 4 hours
+18 - 24,Male,Self -  Employed,Post Graduation,2 - 4 hours
+18 - 24,Male,Unemployed,Graduation,2 - 4 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Female,Service,Graduation,1 - 2 hours
+18 - 24,Female,Service,Graduation,1 - 2 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Male,Self -  Employed,Graduation,Above 6 hours
+25 - 31,Male,Self -  Employed,Post Graduation,Less than 1 hour
+18 - 24,Male,Student,Graduation,4 - 6 hours
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+Below 18,Male,Student,Below SSC,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,Above 6 hours
+Below 18,Male,Student,HSC (12th Grade),Less than 1 hour
+18 - 24,Male,Unemployed,Graduation,2 - 4 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+25 - 31,Male,Student,Professional Degree,Above 6 hours
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Female,Service,Professional Degree,1 - 2 hours
+25 - 31,Male,Student,Graduation,2 - 4 hours
+18 - 24,Female,Service,Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Male,Self -  Employed,Graduation,1 - 2 hours
+18 - 24,Male,Student,Professional Degree,Less than 1 hour
+18 - 24,Female,Retired,Post Graduation,Less than 1 hour
+39 - 45,Male,Self -  Employed,Graduation,1 - 2 hours
+18 - 24,Female,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,4 - 6 hours
+18 - 24,Male,Student,Professional Degree,2 - 4 hours
+32 - 38,Female,Service,Graduation,Less than 1 hour
+39 - 45,Male,Self -  Employed,HSC (12th Grade),1 - 2 hours
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Male,Service,Graduation,Less than 1 hour
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+18 - 24,Male,Service,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,Less than 1 hour
+39 - 45,Male,Service,Graduation,1 - 2 hours
+18 - 24,Male,Self -  Employed,Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+25 - 31,Male,Self -  Employed,Post Graduation,Above 6 hours
+18 - 24,Male,Service,Graduation,2 - 4 hours
+18 - 24,Male,Service,Post Graduation,1 - 2 hours
+25 - 31,Male,Service,Professional Degree,2 - 4 hours
+Below 18,Male,Student,SSC (10th Grade),2 - 4 hours
+39 - 45,Male,Service,Graduation,Less than 1 hour
+25 - 31,Female,Service,Professional Degree,2 - 4 hours
+32 - 38,Female,Service,Professional Degree,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+39 - 45,Female,Self -  Employed,Doctorate Degree (PhD),Less than 1 hour
+18 - 24,Male,Student,Post Graduation,Less than 1 hour
+32 - 38,Female,Unemployed,Post Graduation,Above 6 hours
+18 - 24,Female,Student,Graduation,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+32 - 38,Male,Service,Doctorate Degree (PhD),1 - 2 hours
+Below 18,Female,Student,SSC (10th Grade),2 - 4 hours
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+39 - 45,Male,Service,Doctorate Degree (PhD),1 - 2 hours
+18 - 24,Male,Student,HSC (12th Grade),1 - 2 hours
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+18 - 24,Male,Service,Post Graduation,Less than 1 hour
+25 - 31,Female,Service,Graduation,2 - 4 hours
+53 - 59,Male,Service,Doctorate Degree (PhD),Less than 1 hour
+18 - 24,Male,Student,Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,1 - 2 hours
+18 - 24,Male,Student,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+25 - 31,Female,Service,Post Graduation,Less than 1 hour
+25 - 31,Male,Self -  Employed,Post Graduation,2 - 4 hours
+25 - 31,Male,Self -  Employed,Post Graduation,2 - 4 hours
+39 - 45,Female,Unemployed,SSC (10th Grade),2 - 4 hours
+18 - 24,Female,Student,Professional Degree,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+32 - 38,Female,Self -  Employed,Professional Degree,2 - 4 hours
+32 - 38,Female,Self -  Employed,Post Graduation,1 - 2 hours
+18 - 24,Male,Service,Post Graduation,2 - 4 hours
+18 - 24,Female,Student,Graduation,Less than 1 hour
+25 - 31,Male,Self -  Employed,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Male,Self -  Employed,Graduation,1 - 2 hours
+25 - 31,Female,Housewife,Post Graduation,2 - 4 hours
+25 - 31,Male,Service,Graduation,2 - 4 hours
+25 - 31,Male,Unemployed,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+25 - 31,Female,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Service,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,2 - 4 hours
+25 - 31,Female,Service,Post Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+18 - 24,Male,Service,Graduation,2 - 4 hours
+25 - 31,Female,Service,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,Less than 1 hour
+25 - 31,Female,Unemployed,Post Graduation,1 - 2 hours
+18 - 24,Female,Service,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,2 - 4 hours
+25 - 31,Male,Service,Graduation,Less than 1 hour
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+25 - 31,Female,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+25 - 31,Male,Self -  Employed,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+32 - 38,Male,Service,Professional Degree,2 - 4 hours
+18 - 24,Female,Service,Post Graduation,Less than 1 hour
+18 - 24,Male,Self -  Employed,Post Graduation,Less than 1 hour
+18 - 24,Female,Service,Professional Degree,2 - 4 hours
+25 - 31,Male,Service,Post Graduation,Less than 1 hour
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+25 - 31,Female,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Male,Service,Graduation,2 - 4 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+39 - 45,Male,Service,Post Graduation,1 - 2 hours
+53 - 59,Male,Service,Doctorate Degree (PhD),1 - 2 hours
+25 - 31,Male,Service,Graduation,Less than 1 hour
+18 - 24,Female,Self -  Employed,Professional Degree,2 - 4 hours
+18 - 24,Male,Student,Graduation,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,1 - 2 hours
+25 - 31,Male,Service,Graduation,2 - 4 hours
+18 - 24,Female,Student,HSC (12th Grade),2 - 4 hours
+32 - 38,Female,Housewife ,HSC (12th Grade),Above 6 hours
+32 - 38,Female,Housewife ,HSC (12th Grade),Above 6 hours
+46 - 52,Female,Service,Graduation,Less than 1 hour
+18 - 24,Female,Self -  Employed,HSC (12th Grade),2 - 4 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+53 - 59,Male,Service,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,Post Graduation,Less than 1 hour
+18 - 24,Female,Unemployed,Post Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,4 - 6 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Female,Student,Graduation,4 - 6 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Female,Self -  Employed,Post Graduation,Less than 1 hour
+60 and Above,Female,Retired,Post Graduation,4 - 6 hours
+18 - 24,Female,Self -  Employed,Post Graduation,1 - 2 hours
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Self -  Employed,Graduation,2 - 4 hours
+18 - 24,Male,Student,Professional Degree,1 - 2 hours
+18 - 24,Male,Student,Post Graduation,Less than 1 hour
+25 - 31,Male,Service,Professional Degree,2 - 4 hours
+46 - 52,Male,Service,Graduation,1 - 2 hours
+18 - 24,Female,Unemployed,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,1 - 2 hours
+25 - 31,Female,Service,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+25 - 31,Male,Self -  Employed,Post Graduation,1 - 2 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+25 - 31,Female,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Post Graduation,4 - 6 hours
+18 - 24,Female,Self -  Employed,Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,1 - 2 hours
+39 - 45,Female,Self -  Employed,Professional Degree,1 - 2 hours
+18 - 24,Female,Student,HSC (12th Grade),Less than 1 hour
+18 - 24,Female,Student,Graduation,4 - 6 hours
+53 - 59,Male,Self -  Employed,Professional Degree,1 - 2 hours
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+25 - 31,Female,Student,Post Graduation,2 - 4 hours
+18 - 24,Male,Service,Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,Less than 1 hour
+18 - 24,Male,Self -  Employed,Graduation,1 - 2 hours
+39 - 45,Female,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,HSC (12th Grade),2 - 4 hours
+39 - 45,Male,Self -  Employed,Professional Degree,2 - 4 hours
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+18 - 24,Female,Student,Professional Degree,Less than 1 hour
+18 - 24,Female,Service,Post Graduation,4 - 6 hours
+25 - 31,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Female,Service,Graduation,2 - 4 hours
+18 - 24,Male,Service,Graduation,1 - 2 hours
+25 - 31,Female,Unemployed,Graduation,2 - 4 hours
+18 - 24,Female,Student,Graduation,Less than 1 hour
+18 - 24,Male,Student,Professional Degree,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+25 - 31,Female,Service,Post Graduation,Less than 1 hour
+46 - 52,Female,Service,Doctorate Degree (PhD),1 - 2 hours
+39 - 45,Male,Service,Graduation,Less than 1 hour
+18 - 24,Male,Service,SSC (10th Grade),1 - 2 hours
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+25 - 31,Male,Service,Graduation,2 - 4 hours
+18 - 24,Male,Service,Post Graduation,Above 6 hours
+46 - 52,Male,Service,Professional Degree,Less than 1 hour
+18 - 24,Male,Self -  Employed,Graduation,4 - 6 hours
+25 - 31,Male,Service,Post Graduation,Less than 1 hour
+25 - 31,Male,Service,Graduation,2 - 4 hours
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Female,Student,Professional Degree,1 - 2 hours
+18 - 24,Male,Self -  Employed,Graduation,Above 6 hours
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+25 - 31,Male,Service,HSC (12th Grade),1 - 2 hours
+18 - 24,Female,Student,HSC (12th Grade),1 - 2 hours
+25 - 31,Female,Unemployed,Graduation,2 - 4 hours
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+25 - 31,Male,Service,HSC (12th Grade),2 - 4 hours
+18 - 24,Female,Unemployed,Professional Degree,4 - 6 hours
+18 - 24,Male,Service,Graduation,Above 6 hours
+Below 18,Male,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Self -  Employed,Graduation,1 - 2 hours
+Below 18,Male,Student,SSC (10th Grade),1 - 2 hours
+53 - 59,Male,Self -  Employed,Professional Degree,1 - 2 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+32 - 38,Female,Unemployed,Post Graduation,2 - 4 hours
+18 - 24,Male,Service,Graduation,1 - 2 hours
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+25 - 31,Male,Student,Doctorate Degree (PhD),Less than 1 hour
+46 - 52,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Self -  Employed,Professional Degree,Less than 1 hour
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+25 - 31,Female,Service,Professional Degree,1 - 2 hours
+39 - 45,Female,Unemployed,SSC (10th Grade),1 - 2 hours
+39 - 45,Female,Self -  Employed,Graduation,2 - 4 hours
+Below 18,Female,Student,HSC (12th Grade),Less than 1 hour
+Below 18,Female,Student,HSC (12th Grade),1 - 2 hours
+25 - 31,Female,Unemployed,Graduation,4 - 6 hours
+39 - 45,Male,Service,Graduation,1 - 2 hours
+Below 18,Male,Student,Below SSC,2 - 4 hours
+25 - 31,Female,Unemployed,Graduation,2 - 4 hours
+32 - 38,Female,Self -  Employed,Graduation,2 - 4 hours
+46 - 52,Female,Self -  Employed,HSC (12th Grade),2 - 4 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+53 - 59,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+32 - 38,Female,Self -  Employed,Graduation,2 - 4 hours
+25 - 31,Female,Self -  Employed,Professional Degree,2 - 4 hours
+46 - 52,Female,Self -  Employed,Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+Below 18,Male,Student,HSC (12th Grade),2 - 4 hours
+18 - 24,Female,Self -  Employed,HSC (12th Grade),1 - 2 hours
+53 - 59,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+18 - 24,Male,Self -  Employed,HSC (12th Grade),1 - 2 hours
+18 - 24,Male,Self -  Employed,HSC (12th Grade),1 - 2 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+25 - 31,Female,Unemployed,Graduation,4 - 6 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,Professional Degree,2 - 4 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+25 - 31,Male,Self -  Employed,Graduation,1 - 2 hours
+18 - 24,Male,Service,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,Above 6 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+46 - 52,Female,Service,Doctorate Degree (PhD),1 - 2 hours
+18 - 24,Female,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Service,Post Graduation,Less than 1 hour
+18 - 24,Male,Service,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,Less than 1 hour
+32 - 38,Female,Service,Professional Degree,1 - 2 hours
+32 - 38,Male,Self -  Employed,Graduation,1 - 2 hours
+60 and Above,Female,Housewife,Below SSC,2 - 4 hours
+60 and Above,Male,Retired,Below SSC,2 - 4 hours
+18 - 24,Female,Service,Graduation,1 - 2 hours
+Below 18,Male,Student,HSC (12th Grade),1 - 2 hours
+25 - 31,Female,Unemployed,Graduation,Above 6 hours
+Below 18,Female,Student,Below SSC,2 - 4 hours
+Below 18,Female,Student,Below SSC,4 - 6 hours
+32 - 38,Male,Service,HSC (12th Grade),1 - 2 hours
+53 - 59,Male,Service,SSC (10th Grade),1 - 2 hours
+46 - 52,Female,Unemployed,SSC (10th Grade),4 - 6 hours
+25 - 31,Male,Service,Graduation,2 - 4 hours
+25 - 31,Female,Service,Graduation,1 - 2 hours
+Below 18,Female,Student,Below SSC,2 - 4 hours
+Below 18,Male,Student,Below SSC,2 - 4 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+25 - 31,Male,Self -  Employed,Graduation,Above 6 hours
+Below 18,Female,Student,HSC (12th Grade),Less than 1 hour
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+Below 18,Female,Student,SSC (10th Grade),2 - 4 hours
+Below 18,Female,Student,HSC (12th Grade),1 - 2 hours
+Below 18,Female,Student,SSC (10th Grade),1 - 2 hours
+18 - 24,Male,Self -  Employed,Graduation,1 - 2 hours
+53 - 59,Female,Housewife,SSC (10th Grade),Less than 1 hour
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+Below 18,Female,Student,HSC (12th Grade),1 - 2 hours
+Below 18,Male,Student,Below SSC,1 - 2 hours
+Below 18,Female,Student,SSC (10th Grade),2 - 4 hours
+25 - 31,Female,Self -  Employed,SSC (10th Grade),1 - 2 hours
+Below 18,Male,Student,SSC (10th Grade),1 - 2 hours
+Below 18,Male,Student,SSC (10th Grade),1 - 2 hours
+Below 18,Male,Student,Below SSC,Less than 1 hour
+53 - 59,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+46 - 52,Female,Unemployed,HSC (12th Grade),4 - 6 hours
+60 and Above,Female,Unemployed,SSC (10th Grade),Above 6 hours
+60 and Above,Male,Retired,Graduation,2 - 4 hours
+Below 18,Female,Student,Below SSC,2 - 4 hours
+Below 18,Male,Student,SSC (10th Grade),2 - 4 hours
+Below 18,Female,Student,Below SSC,2 - 4 hours
+53 - 59,Female,Self -  Employed,HSC (12th Grade),2 - 4 hours
+25 - 31,Female,Self -  Employed,Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+60 and Above,Male,Retired,SSC (10th Grade),2 - 4 hours
+60 and Above,Female,Unemployed,Below SSC,2 - 4 hours
+60 and Above,Male,Retired,SSC (10th Grade),4 - 6 hours
+53 - 59,Female,Unemployed,Below SSC,4 - 6 hours
+46 - 52,Female,Unemployed,HSC (12th Grade),4 - 6 hours
+46 - 52,Female,Self -  Employed,Graduation,2 - 4 hours
+39 - 45,Female,Service,Graduation,2 - 4 hours
+32 - 38,Female,Self -  Employed,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+32 - 38,Female,Unemployed,Graduation,Less than 1 hour
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+Below 18,Female,Student,Professional Degree,1 - 2 hours
+18 - 24,Male,Student,HSC (12th Grade),2 - 4 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+Below 18,Male,Student,HSC (12th Grade),4 - 6 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+Below 18,Female,Student,HSC (12th Grade),1 - 2 hours
+Below 18,Female,Student,HSC (12th Grade),2 - 4 hours
+25 - 31,Female,Self -  Employed,Graduation,1 - 2 hours
+Below 18,Female,Student,HSC (12th Grade),1 - 2 hours
+Below 18,Male,Student,HSC (12th Grade),4 - 6 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Female,Student,Below SSC,1 - 2 hours
+Below 18,Male,Student,Below SSC,Less than 1 hour
+Below 18,Male,Student,Below SSC,1 - 2 hours
+Below 18,Male,Student,Below SSC,2 - 4 hours
+Below 18,Male,Student,Below SSC,2 - 4 hours
+18 - 24,Female,Service,Graduation,1 - 2 hours
+25 - 31,Female,Service,Graduation,1 - 2 hours
+18 - 24,Male,Self -  Employed,Post Graduation,Less than 1 hour
+53 - 59,Female,Self -  Employed,Graduation,2 - 4 hours
+46 - 52,Female,Service,Graduation,2 - 4 hours
+39 - 45,Female,Service,Graduation,2 - 4 hours
+32 - 38,Female,Unemployed,Graduation,2 - 4 hours
+32 - 38,Female,Service,Graduation,4 - 6 hours
+32 - 38,Female,Self -  Employed,Graduation,2 - 4 hours
+39 - 45,Female,Self -  Employed,Professional Degree,4 - 6 hours
+60 and Above,Female,Retired,HSC (12th Grade),4 - 6 hours
+53 - 59,Female,Self -  Employed,Graduation,4 - 6 hours
+46 - 52,Female,Service,Graduation,2 - 4 hours
+32 - 38,Female,Service,HSC (12th Grade),1 - 2 hours
+39 - 45,Male,Self -  Employed,Post Graduation,1 - 2 hours
+25 - 31,Female,Service,Post Graduation,1 - 2 hours
+53 - 59,Female,Self -  Employed,Graduation,2 - 4 hours
+60 and Above,Male,Retired,HSC (12th Grade),4 - 6 hours
+53 - 59,Female,Self -  Employed,Graduation,2 - 4 hours
+32 - 38,Male,Self -  Employed,Graduation,2 - 4 hours
+46 - 52,Female,Self -  Employed,Graduation,2 - 4 hours
+46 - 52,Male,Service,Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Male,Self -  Employed,Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,4 - 6 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+18 - 24,Male,Service,Graduation,4 - 6 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,Post Graduation,4 - 6 hours
+18 - 24,Male,Student,Graduation,Less than 1 hour
+18 - 24,Male,Service,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Service,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Female,Service,Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Male,Student,Graduation,2 - 4 hours
+25 - 31,Male,Service,Post Graduation,2 - 4 hours
+18 - 24,Male,Unemployed,Graduation,Less than 1 hour
+32 - 38,Female,Service,Below SSC,2 - 4 hours
+18 - 24,Female,Student,Professional Degree,4 - 6 hours
+18 - 24,Male,Student,HSC (12th Grade),1 - 2 hours
+46 - 52,Female,Self -  Employed,Graduation,1 - 2 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,HSC (12th Grade),1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,Above 6 hours
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+53 - 59,Female,Service,Graduation,2 - 4 hours
+46 - 52,Female,Unemployed,HSC (12th Grade),4 - 6 hours
+39 - 45,Female,Self -  Employed,Graduation,2 - 4 hours
+32 - 38,Female,Service,Graduation,2 - 4 hours
+25 - 31,Female,Student,Graduation,4 - 6 hours
+25 - 31,Female,Service,Post Graduation,4 - 6 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+Below 18,Male,Student,HSC (12th Grade),2 - 4 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,4 - 6 hours
+18 - 24,Male,Service,Graduation,1 - 2 hours
+18 - 24,Male,Student,Professional Degree,Less than 1 hour
+46 - 52,Male,Service,Graduation,Less than 1 hour
+18 - 24,Female,Student,HSC (12th Grade),2 - 4 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,4 - 6 hours
+18 - 24,Female,Service,Professional Degree,2 - 4 hours
+18 - 24,Male,Student,Professional Degree,4 - 6 hours
+18 - 24,Male,Student,HSC (12th Grade),1 - 2 hours
+39 - 45,Male,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,Professional Degree,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Service,Graduation,2 - 4 hours
+18 - 24,Female,Service,Graduation,1 - 2 hours
+18 - 24,Male,Service,Professional Degree,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Male,Unemployed,Professional Degree,1 - 2 hours
+18 - 24,Male,Service,Graduation,Less than 1 hour
+25 - 31,Female,Self -  Employed,Graduation,2 - 4 hours
+32 - 38,Female,Service,Graduation,2 - 4 hours
+25 - 31,Female,Unemployed,Graduation,2 - 4 hours
+32 - 38,Female,Service,Graduation,2 - 4 hours
+39 - 45,Female,Unemployed,Graduation,2 - 4 hours
+32 - 38,Female,Self -  Employed,Graduation,2 - 4 hours
+18 - 24,Male,Student,Post Graduation,Less than 1 hour
+46 - 52,Female,Self -  Employed,Graduation,1 - 2 hours
+25 - 31,Male,Student,Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,Less than 1 hour
+18 - 24,Male,Student,Post Graduation,Less than 1 hour
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+25 - 31,Male,Student,Graduation,2 - 4 hours
+25 - 31,Female,Service,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+32 - 38,Male,Service,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,HSC (12th Grade),1 - 2 hours
+18 - 24,Male,Student,HSC (12th Grade),2 - 4 hours
+39 - 45,Male,Service,Graduation,Less than 1 hour
+18 - 24,Male,Student,HSC (12th Grade),1 - 2 hours
+39 - 45,Male,Service,SSC (10th Grade),1 - 2 hours
+18 - 24,Male,Student,HSC (12th Grade),Less than 1 hour
+18 - 24,Male,Student,Graduation,Less than 1 hour
+Below 18,Female,Student,Graduation,1 - 2 hours
+46 - 52,Female,Service,Below SSC,2 - 4 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Female,Student,Graduation,4 - 6 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Female,Student,Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,4 - 6 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+18 - 24,Male,Service,Post Graduation,Less than 1 hour
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+53 - 59,Male,Self -  Employed,SSC (10th Grade),1 - 2 hours
+39 - 45,Male,Self -  Employed,HSC (12th Grade),Less than 1 hour
+32 - 38,Male,Service,Graduation,Less than 1 hour
+18 - 24,Male,Service,Graduation,Less than 1 hour
+25 - 31,Male,Self -  Employed,Doctorate Degree (PhD),2 - 4 hours
+18 - 24,Male,Service,Post Graduation,Less than 1 hour
+32 - 38,Female,Unemployed,Post Graduation,2 - 4 hours
+32 - 38,Male,Service,Graduation,1 - 2 hours
+25 - 31,Male,Service,Post Graduation,2 - 4 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+32 - 38,Male,Self -  Employed,Post Graduation,Less than 1 hour
+25 - 31,Male,Service,Post Graduation,Less than 1 hour
+32 - 38,Male,Service,Post Graduation,1 - 2 hours
+32 - 38,Male,Self -  Employed,Post Graduation,1 - 2 hours
+32 - 38,Female,Unemployed,Post Graduation,2 - 4 hours
+18 - 24,Male,Unemployed,Graduation,1 - 2 hours
+60 and Above,Male,Retired,Graduation,1 - 2 hours
+53 - 59,Female,Unemployed,HSC (12th Grade),4 - 6 hours
+53 - 59,Female,Self -  Employed,Graduation,2 - 4 hours
+53 - 59,Female,Service,Graduation,4 - 6 hours
+60 and Above,Female,Retired,HSC (12th Grade),2 - 4 hours
+60 and Above,Female,Unemployed,HSC (12th Grade),4 - 6 hours
+53 - 59,Female,Unemployed,SSC (10th Grade),2 - 4 hours
+53 - 59,Female,Self -  Employed,HSC (12th Grade),2 - 4 hours
+53 - 59,Male,Unemployed,Below SSC,1 - 2 hours
+46 - 52,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+46 - 52,Female,Unemployed,Graduation,2 - 4 hours
+53 - 59,Female,Unemployed,SSC (10th Grade),2 - 4 hours
+53 - 59,Male,Unemployed,Below SSC,1 - 2 hours
+46 - 52,Female,Service,Graduation,2 - 4 hours
+53 - 59,Male,Unemployed,Below SSC,1 - 2 hours
+46 - 52,Female,Unemployed,SSC (10th Grade),2 - 4 hours
+39 - 45,Female,Self -  Employed,Graduation,4 - 6 hours
+46 - 52,Female,Unemployed,SSC (10th Grade),2 - 4 hours
+46 - 52,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+53 - 59,Female,Self -  Employed,Professional Degree,4 - 6 hours
+60 and Above,Male,Service,Graduation,2 - 4 hours
+46 - 52,Male,Unemployed,HSC (12th Grade),2 - 4 hours
+53 - 59,Male,Self -  Employed,Graduation,2 - 4 hours
+32 - 38,Female,Self -  Employed,Graduation,4 - 6 hours
+39 - 45,Female,Service,Graduation,2 - 4 hours
+39 - 45,Female,Unemployed,HSC (12th Grade),4 - 6 hours
+39 - 45,Female,Self -  Employed,Graduation,2 - 4 hours
+46 - 52,Female,Self -  Employed,Professional Degree,4 - 6 hours
+53 - 59,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+53 - 59,Female,Service,Graduation,2 - 4 hours
+53 - 59,Male,Service,Graduation,2 - 4 hours
+39 - 45,Female,Self -  Employed,Graduation,2 - 4 hours
+46 - 52,Female,Self -  Employed,HSC (12th Grade),2 - 4 hours
+53 - 59,Female,Unemployed,SSC (10th Grade),4 - 6 hours
+18 - 24,Male,Service,Graduation,4 - 6 hours
+46 - 52,Male,Service,Graduation,2 - 4 hours
+32 - 38,Female,Service,Graduation,2 - 4 hours
+46 - 52,Male,Service,Graduation,2 - 4 hours
+60 and Above,Male,Retired,Graduation,4 - 6 hours
+60 and Above,Male,Service,HSC (12th Grade),4 - 6 hours
+60 and Above,Female,Retired,HSC (12th Grade),4 - 6 hours
+46 - 52,Male,Service,Graduation,2 - 4 hours
+Below 18,Female,Student,Below SSC,1 - 2 hours
+25 - 31,Male,Student,Doctorate Degree (PhD),2 - 4 hours
+32 - 38,Female,Self -  Employed,Graduation,2 - 4 hours
+46 - 52,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+39 - 45,Male,Service,Graduation,2 - 4 hours
+Below 18,Male,Student,Below SSC,2 - 4 hours
+25 - 31,Female,Service,Graduation,2 - 4 hours
+25 - 31,Male,Service,Graduation,2 - 4 hours
+39 - 45,Male,Self -  Employed,Graduation,2 - 4 hours
+53 - 59,Female,Unemployed,SSC (10th Grade),4 - 6 hours
+53 - 59,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+Below 18,Male,Student,Below SSC,2 - 4 hours
+53 - 59,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+53 - 59,Male,Self -  Employed,Graduation,2 - 4 hours
+53 - 59,Male,Service,Graduation,2 - 4 hours
+53 - 59,Female,Unemployed,SSC (10th Grade),2 - 4 hours
+60 and Above,Male,Retired,Graduation,4 - 6 hours
+60 and Above,Female,Unemployed,Below SSC,4 - 6 hours
+Below 18,Female,Student,SSC (10th Grade),Less than 1 hour
+39 - 45,Male,Self -  Employed,Post Graduation,2 - 4 hours
+39 - 45,Female,Self -  Employed,Graduation,2 - 4 hours
+53 - 59,Male,Service,Graduation,2 - 4 hours
+60 and Above,Female,Unemployed,Below SSC,4 - 6 hours
+39 - 45,Female,Unemployed,Graduation,2 - 4 hours
+25 - 31,Female,Self -  Employed,Graduation,2 - 4 hours
+53 - 59,Female,Unemployed,HSC (12th Grade),4 - 6 hours
+25 - 31,Female,Housewife ,Graduation,4 - 6 hours
+46 - 52,Female,Self -  Employed,Graduation,2 - 4 hours
+32 - 38,Male,Service,Professional Degree,Less than 1 hour
+46 - 52,Male,Self -  Employed,Graduation,4 - 6 hours
+32 - 38,Male,Self -  Employed,Professional Degree,1 - 2 hours
+39 - 45,Male,Self -  Employed,Professional Degree,1 - 2 hours
+53 - 59,Male,Service,Graduation,Less than 1 hour
+46 - 52,Female,Housewife,HSC (12th Grade),4 - 6 hours
+53 - 59,Male,Service,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,Less than 1 hour
+18 - 24,Male,Student,Post Graduation,4 - 6 hours
+32 - 38,Male,Self -  Employed,Professional Degree,1 - 2 hours
+39 - 45,Female,Service,Professional Degree,Less than 1 hour
+18 - 24,Male,Service,Graduation,Less than 1 hour
+53 - 59,Male,Service,HSC (12th Grade),1 - 2 hours
+46 - 52,Female,Service,SSC (10th Grade),2 - 4 hours
+60 and Above,Female,Housewife,Below SSC,4 - 6 hours
+60 and Above,Male,Retired,SSC (10th Grade),4 - 6 hours
+25 - 31,Female,Service,Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,Less than 1 hour
+18 - 24,Male,Student,Professional Degree,4 - 6 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+39 - 45,Male,Service,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,2 - 4 hours
+32 - 38,Male,Service,Graduation,1 - 2 hours
+60 and Above,Female,Housewife,Below SSC,4 - 6 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+53 - 59,Male,Service,Post Graduation,1 - 2 hours
+32 - 38,Male,Service,Post Graduation,1 - 2 hours
+46 - 52,Female,Service,Graduation,2 - 4 hours
+18 - 24,Female,Unemployed,Graduation,Less than 1 hour
+53 - 59,Female,Unemployed,SSC (10th Grade),2 - 4 hours
+60 and Above,Female,Retired,Graduation,Above 6 hours
+53 - 59,Female,Self -  Employed,Graduation,2 - 4 hours
+53 - 59,Female,Service,HSC (12th Grade),2 - 4 hours
+53 - 59,Female,Service,Professional Degree,4 - 6 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+46 - 52,Female,Self -  Employed,Graduation,2 - 4 hours
+46 - 52,Female,Service,Graduation,2 - 4 hours
+25 - 31,Female,Service,Graduation,2 - 4 hours
+46 - 52,Female,Unemployed,HSC (12th Grade),4 - 6 hours
+46 - 52,Male,Self -  Employed,Graduation,1 - 2 hours
+60 and Above,Female,Housewife,Below SSC,Above 6 hours
+Below 18,Male,Student,Graduation,Above 6 hours
+39 - 45,Female,Service,Professional Degree,1 - 2 hours
+53 - 59,Male,Retired,SSC (10th Grade),4 - 6 hours
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+60 and Above,Female,Housewife,Below SSC,4 - 6 hours
+18 - 24,Male,Student,Graduation,Less than 1 hour
+18 - 24,Female,Service,Graduation,Less than 1 hour
+18 - 24,Male,Self -  Employed,Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,Less than 1 hour
+39 - 45,Female,Unemployed,Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,4 - 6 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+25 - 31,Male,Service,HSC (12th Grade),1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+39 - 45,Female,Housewife ,Graduation,1 - 2 hours
+18 - 24,Female,Unemployed,Post Graduation,2 - 4 hours
+32 - 38,Female,Service,HSC (12th Grade),1 - 2 hours
+25 - 31,Male,Service,Professional Degree,1 - 2 hours
+18 - 24,Male,Student,HSC (12th Grade),Less than 1 hour
+18 - 24,Male,Service,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,HSC (12th Grade),1 - 2 hours
+Below 18,Male,Student,HSC (12th Grade),1 - 2 hours
+18 - 24,Female,Service,Graduation,Less than 1 hour
+18 - 24,Male,Service,Graduation,4 - 6 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+46 - 52,Male,Service,SSC (10th Grade),2 - 4 hours
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+Below 18,Male,Student,HSC (12th Grade),1 - 2 hours
+25 - 31,Female,Service,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+53 - 59,Female,Service,Doctorate Degree (PhD),Less than 1 hour
+Below 18,Male,Student,HSC (12th Grade),Less than 1 hour
+18 - 24,Female,Student,Professional Degree,1 - 2 hours
+Below 18,Male,Student,HSC (12th Grade),2 - 4 hours
+18 - 24,Male,Student,Graduation,Above 6 hours
+46 - 52,Male,Service,Below SSC,1 - 2 hours
+39 - 45,Female,Service,Below SSC,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Post Graduation,2 - 4 hours
+46 - 52,Male,Service,SSC (10th Grade),2 - 4 hours
+46 - 52,Female,Service,Below SSC,2 - 4 hours
+32 - 38,Male,Service,SSC (10th Grade),1 - 2 hours
+46 - 52,Female,Service,SSC (10th Grade),Less than 1 hour
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+32 - 38,Male,Student,Graduation,1 - 2 hours
+25 - 31,Female,Service,Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+18 - 24,Female,Student,Post Graduation,4 - 6 hours
+18 - 24,Male,Student,HSC (12th Grade),1 - 2 hours
+39 - 45,Female,Service,SSC (10th Grade),1 - 2 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,Above 6 hours
+18 - 24,Male,Service,Post Graduation,Less than 1 hour
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,4 - 6 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+18 - 24,Female,Self -  Employed,Graduation,Less than 1 hour
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,Less than 1 hour
+18 - 24,Male,Student,HSC (12th Grade),2 - 4 hours
+60 and Above,Male,Retired,Graduation,2 - 4 hours
+60 and Above,Female,Housewife,Below SSC,Above 6 hours
+60 and Above,Female,Housewife,Below SSC,Above 6 hours
+60 and Above,Female,Housewife,Below SSC,Above 6 hours
+Below 18,Female,Student,Below SSC,2 - 4 hours
+Below 18,Female,Student,Below SSC,2 - 4 hours
+Below 18,Female,Student,SSC (10th Grade),1 - 2 hours
+Below 18,Male,Student,Below SSC,2 - 4 hours
+Below 18,Male,Student,SSC (10th Grade),4 - 6 hours
+Below 18,Male,Student,Below SSC,2 - 4 hours
+32 - 38,Male,Service,Graduation,2 - 4 hours
+32 - 38,Male,Self -  Employed,Graduation,2 - 4 hours
+32 - 38,Female,Service,Graduation,4 - 6 hours
+18 - 24,Female,Student,Post Graduation,1 - 2 hours
+25 - 31,Male,Service,Below SSC,2 - 4 hours
+25 - 31,Female,Housewife,Graduation,4 - 6 hours
+53 - 59,Male,Self -  Employed,Post Graduation,2 - 4 hours
+25 - 31,Male,Self -  Employed,HSC (12th Grade),4 - 6 hours
+18 - 24,Male,Student,Graduation,Less than 1 hour
+18 - 24,Male,Student,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+32 - 38,Male,Self -  Employed,Post Graduation,Less than 1 hour
+Below 18,Female,Student,SSC (10th Grade),2 - 4 hours
+Below 18,Female,Student,SSC (10th Grade),2 - 4 hours
+18 - 24,Male,Student,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,1 - 2 hours
+25 - 31,Female,Service,Post Graduation,2 - 4 hours
+18 - 24,Female,Student,HSC (12th Grade),2 - 4 hours
+18 - 24,Male,Service,Graduation,Above 6 hours
+53 - 59,Female,Unemployed,HSC (12th Grade),4 - 6 hours
+53 - 59,Female,Service,Graduation,2 - 4 hours
+53 - 59,Female,Self -  Employed,Graduation,2 - 4 hours
+53 - 59,Male,Service,Graduation,2 - 4 hours
+53 - 59,Male,Self -  Employed,Post Graduation,2 - 4 hours
+53 - 59,Male,Service,HSC (12th Grade),2 - 4 hours
+46 - 52,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+46 - 52,Female,Self -  Employed,Graduation,2 - 4 hours
+46 - 52,Male,Service,Graduation,1 - 2 hours
+46 - 52,Male,Self -  Employed,Professional Degree,2 - 4 hours
+46 - 52,Female,Unemployed,Graduation,2 - 4 hours
+46 - 52,Male,Self -  Employed,HSC (12th Grade),2 - 4 hours
+39 - 45,Male,Service,Graduation,1 - 2 hours
+39 - 45,Male,Service,Graduation,2 - 4 hours
+46 - 52,Male,Service,Professional Degree,2 - 4 hours
+39 - 45,Female,Service,Graduation,2 - 4 hours
+39 - 45,Female,Self -  Employed,HSC (12th Grade),2 - 4 hours
+39 - 45,Male,Unemployed,SSC (10th Grade),2 - 4 hours
+39 - 45,Male,Self -  Employed,Professional Degree,2 - 4 hours
+39 - 45,Male,Self -  Employed,Doctorate Degree (PhD),1 - 2 hours
+39 - 45,Male,Service,HSC (12th Grade),2 - 4 hours
+39 - 45,Female,Service,HSC (12th Grade),1 - 2 hours
+39 - 45,Female,Self -  Employed,HSC (12th Grade),1 - 2 hours
+39 - 45,Male,Self -  Employed,Professional Degree,2 - 4 hours
+39 - 45,Male,Service,Post Graduation,1 - 2 hours
+39 - 45,Female,Self -  Employed,Professional Degree,1 - 2 hours
+39 - 45,Male,Service,Doctorate Degree (PhD),1 - 2 hours
+39 - 45,Female,Unemployed,HSC (12th Grade),Above 6 hours
+39 - 45,Female,Unemployed,SSC (10th Grade),Above 6 hours
+53 - 59,Male,Service,Professional Degree,1 - 2 hours
+53 - 59,Female,Unemployed,SSC (10th Grade),Above 6 hours
+60 and Above,Female,Unemployed,HSC (12th Grade),Above 6 hours
+60 and Above,Female,Unemployed,SSC (10th Grade),Above 6 hours
+60 and Above,Male,Retired,HSC (12th Grade),Above 6 hours
+60 and Above,Male,Retired,SSC (10th Grade),Above 6 hours
+53 - 59,Female,Unemployed,SSC (10th Grade),Above 6 hours
+Below 18,Male,Student,SSC (10th Grade),1 - 2 hours
+Below 18,Male,Student,Below SSC,4 - 6 hours
+Below 18,Female,Student,Below SSC,1 - 2 hours
+Below 18,Male,Student,SSC (10th Grade),4 - 6 hours
+32 - 38,Male,Service,Post Graduation,1 - 2 hours
+32 - 38,Male,Service,Graduation,1 - 2 hours
+32 - 38,Male,Service,Post Graduation,1 - 2 hours
+39 - 45,Male,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,4 - 6 hours
+18 - 24,Male,Service,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,Doctorate Degree (PhD),2 - 4 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+39 - 45,Male,Service,Doctorate Degree (PhD),Less than 1 hour
+39 - 45,Female,Service,Post Graduation,1 - 2 hours
+32 - 38,Female,Service,Post Graduation,2 - 4 hours
+60 and Above,Male,Retired,SSC (10th Grade),4 - 6 hours
+60 and Above,Male,Retired,Below SSC,Above 6 hours
+25 - 31,Female,Service,Post Graduation,2 - 4 hours
+53 - 59,Female,Service,HSC (12th Grade),1 - 2 hours
+32 - 38,Male,Service,Post Graduation,4 - 6 hours
+18 - 24,Male,Service,Graduation,Less than 1 hour
+39 - 45,Female,Service,Graduation,Less than 1 hour
+18 - 24,Male,Service,Professional Degree,2 - 4 hours
+25 - 31,Male,Service,Post Graduation,Above 6 hours
+18 - 24,Male,Unemployed,Graduation,Less than 1 hour
+18 - 24,Male,Unemployed,Graduation,Above 6 hours
+39 - 45,Female,Service,Professional Degree,Less than 1 hour
+53 - 59,Female,Service,HSC (12th Grade),2 - 4 hours
+53 - 59,Female,Service,Post Graduation,1 - 2 hours
+53 - 59,Female,Self -  Employed,HSC (12th Grade),1 - 2 hours
+Below 18,Male,Student,Below SSC,1 - 2 hours
+25 - 31,Female,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+39 - 45,Male,Service,Graduation,Less than 1 hour
+18 - 24,Male,Service,Graduation,1 - 2 hours
+39 - 45,Male,Service,Graduation,1 - 2 hours
+32 - 38,Male,Service,Graduation,1 - 2 hours
+18 - 24,Female,Service,Graduation,Less than 1 hour
+53 - 59,Female,Self -  Employed,Graduation,Less than 1 hour
+60 and Above,Male,Retired,Graduation,Less than 1 hour
+39 - 45,Male,Service,Post Graduation,1 - 2 hours
+46 - 52,Female,Service,Professional Degree,1 - 2 hours
+53 - 59,Female,Unemployed,SSC (10th Grade),Above 6 hours
+18 - 24,Male,Service,Graduation,Less than 1 hour
+46 - 52,Female,Unemployed,HSC (12th Grade),Above 6 hours
+39 - 45,Female,Unemployed,HSC (12th Grade),4 - 6 hours
+46 - 52,Female,Unemployed,SSC (10th Grade),Above 6 hours
+60 and Above,Male,Retired,Graduation,4 - 6 hours
+53 - 59,Male,Self -  Employed,Graduation,2 - 4 hours
+46 - 52,Male,Service,Professional Degree,1 - 2 hours
+53 - 59,Female,Unemployed,SSC (10th Grade),Above 6 hours
+32 - 38,Female,Service,Post Graduation,1 - 2 hours
+39 - 45,Male,Service,Professional Degree,2 - 4 hours
+25 - 31,Male,Student,Doctorate Degree (PhD),1 - 2 hours
+25 - 31,Female,Self -  Employed,Professional Degree,2 - 4 hours
+39 - 45,Male,Service,Post Graduation,1 - 2 hours
+32 - 38,Female,Service,Graduation,1 - 2 hours
+32 - 38,Male,Service,Graduation,2 - 4 hours
+39 - 45,Male,Self -  Employed,Graduation,2 - 4 hours
+32 - 38,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+39 - 45,Male,Self -  Employed,Professional Degree,1 - 2 hours
+18 - 24,Female,Student,Professional Degree,1 - 2 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+18 - 24,Female,Student,Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+25 - 31,Male,Service,Post Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Female,Student,HSC (12th Grade),Above 6 hours
+18 - 24,Female,Service,Post Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,Less than 1 hour
+18 - 24,Female,Student,Professional Degree,4 - 6 hours
+18 - 24,Male,Student,Graduation,Less than 1 hour
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,Less than 1 hour
+Below 18,Female,Student,Below SSC,1 - 2 hours
+Below 18,Female,Student,Below SSC,2 - 4 hours
+Below 18,Male,Student,SSC (10th Grade),2 - 4 hours
+Below 18,Male,Student,Below SSC,1 - 2 hours
+39 - 45,Female,Unemployed,HSC (12th Grade),4 - 6 hours
+46 - 52,Male,Service,Post Graduation,1 - 2 hours
+25 - 31,Female,Unemployed,HSC (12th Grade),Above 6 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+32 - 38,Female,Unemployed,Graduation,2 - 4 hours
+25 - 31,Female,Self -  Employed,Graduation,2 - 4 hours
+32 - 38,Female,Self -  Employed,Post Graduation,2 - 4 hours
+18 - 24,Female,Unemployed,Graduation,1 - 2 hours
+32 - 38,Female,Unemployed,HSC (12th Grade),4 - 6 hours
+39 - 45,Female,Self -  Employed,Professional Degree,2 - 4 hours
+18 - 24,Male,Self -  Employed,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,2 - 4 hours
+32 - 38,Male,Service,Graduation,1 - 2 hours
+32 - 38,Male,Service,Graduation,1 - 2 hours
+18 - 24,Male,Self -  Employed,HSC (12th Grade),Less than 1 hour
+25 - 31,Female,Service,Post Graduation,Less than 1 hour
+Below 18,Female,Student,Below SSC,Less than 1 hour
+39 - 45,Male,Service,Post Graduation,1 - 2 hours
+39 - 45,Female,Service,Post Graduation,2 - 4 hours
+18 - 24,Female,Service,Post Graduation,1 - 2 hours
+Below 18,Male,Student,HSC (12th Grade),Less than 1 hour
+25 - 31,Male,Student,Graduation,2 - 4 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+25 - 31,Female,Service,Graduation,1 - 2 hours
+32 - 38,Male,Service,Graduation,Less than 1 hour
+39 - 45,Male,Service,Post Graduation,Less than 1 hour
+32 - 38,Male,Service,Post Graduation,1 - 2 hours
+53 - 59,Male,Service,Doctorate Degree (PhD),1 - 2 hours
+32 - 38,Male,Service,Post Graduation,1 - 2 hours
+Below 18,Female,Student,HSC (12th Grade),2 - 4 hours
+Below 18,Male,Student,HSC (12th Grade),1 - 2 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+53 - 59,Male,Retired,Graduation,1 - 2 hours
+32 - 38,Male,Self -  Employed,Graduation,2 - 4 hours
+25 - 31,Female,Self -  Employed,Post Graduation,1 - 2 hours
+25 - 31,Female,Self -  Employed,Post Graduation,1 - 2 hours
+32 - 38,Male,Self -  Employed,Graduation,1 - 2 hours
+25 - 31,Male,Self -  Employed,Graduation,1 - 2 hours
+18 - 24,Female,Service,Post Graduation,2 - 4 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+25 - 31,Male,Self -  Employed,Post Graduation,1 - 2 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+25 - 31,Female,Service,Professional Degree,2 - 4 hours
+46 - 52,Female,Service,Graduation,2 - 4 hours
+53 - 59,Female,Retired,Below SSC,4 - 6 hours
+60 and Above,Male,Retired,SSC (10th Grade),4 - 6 hours
+25 - 31,Female,Service,Graduation,Above 6 hours
+60 and Above,Female,Housewife,Below SSC,Above 6 hours
+32 - 38,Female,Service,Post Graduation,1 - 2 hours
+32 - 38,Female,Service,Graduation,2 - 4 hours
+32 - 38,Male,Service,Graduation,1 - 2 hours
+60 and Above,Female,Housewife,Below SSC,4 - 6 hours
+46 - 52,Male,Service,HSC (12th Grade),Less than 1 hour
+46 - 52,Female,Service,SSC (10th Grade),1 - 2 hours
+46 - 52,Male,Service,HSC (12th Grade),1 - 2 hours
+32 - 38,Male,Self -  Employed,Graduation,4 - 6 hours
+46 - 52,Female,Service,Below SSC,2 - 4 hours
+32 - 38,Male,Self -  Employed,Graduation,2 - 4 hours
+32 - 38,Female,Service,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+39 - 45,Female,Self -  Employed,Post Graduation,1 - 2 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+46 - 52,Male,Service,Post Graduation,1 - 2 hours
+53 - 59,Female,Unemployed,HSC (12th Grade),Above 6 hours
+25 - 31,Male,Service,Graduation,2 - 4 hours
+32 - 38,Male,Service,Post Graduation,4 - 6 hours
+18 - 24,Female,Student,Graduation,1 - 2 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+18 - 24,Male,Service,Graduation,1 - 2 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+32 - 38,Male,Service,Graduation,2 - 4 hours
+25 - 31,Female,Student,Post Graduation,1 - 2 hours
+25 - 31,Female,Student,Post Graduation,1 - 2 hours
+39 - 45,Female,Unemployed,HSC (12th Grade),Above 6 hours
+18 - 24,Male,Service,Graduation,1 - 2 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+32 - 38,Female,Service,Graduation,1 - 2 hours
+39 - 45,Female,Self -  Employed,Professional Degree,2 - 4 hours
+18 - 24,Female,Student,Professional Degree,1 - 2 hours
+32 - 38,Male,Service,Graduation,2 - 4 hours
+18 - 24,Female,Service,Post Graduation,1 - 2 hours
+25 - 31,Male,Self -  Employed,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,Graduation,1 - 2 hours
+25 - 31,Male,Service,Professional Degree,1 - 2 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+60 and Above,Male,Retired,Graduation,1 - 2 hours
+25 - 31,Female,Service,Post Graduation,4 - 6 hours
+Below 18,Female,Student,Below SSC,2 - 4 hours
+25 - 31,Female,Service,Professional Degree,2 - 4 hours
+32 - 38,Female,Service,Graduation,1 - 2 hours
+32 - 38,Female,Service,Post Graduation,2 - 4 hours
+39 - 45,Female,Unemployed,HSC (12th Grade),Above 6 hours
+46 - 52,Female,Service,Graduation,2 - 4 hours
+53 - 59,Female,Service,Graduation,1 - 2 hours
+Below 18,Female,Student,Below SSC,1 - 2 hours
+32 - 38,Female,Self -  Employed,Graduation,1 - 2 hours
+39 - 45,Female,Service,Post Graduation,1 - 2 hours
+46 - 52,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+53 - 59,Female,Unemployed,HSC (12th Grade),4 - 6 hours
+Below 18,Female,Student,Below SSC,2 - 4 hours
+Below 18,Female,Student,SSC (10th Grade),2 - 4 hours
+25 - 31,Female,Service,Post Graduation,2 - 4 hours
+32 - 38,Female,Self -  Employed,Professional Degree,2 - 4 hours
+Below 18,Male,Student,Professional Degree,Above 6 hours
+46 - 52,Female,Self -  Employed,Doctorate Degree (PhD),1 - 2 hours
+32 - 38,Female,Self -  Employed,Post Graduation,1 - 2 hours
+46 - 52,Female,Unemployed,HSC (12th Grade),2 - 4 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+53 - 59,Male,Service,Professional Degree,2 - 4 hours
+25 - 31,Male,Service,Post Graduation,Less than 1 hour
+46 - 52,Male,Self -  Employed,Post Graduation,2 - 4 hours
+39 - 45,Male,Service,Graduation,Less than 1 hour
+Below 18,Male,Student,HSC (12th Grade),1 - 2 hours
+25 - 31,Female,Self -  Employed,Post Graduation,1 - 2 hours
+32 - 38,Female,Service,Professional Degree,1 - 2 hours
+39 - 45,Female,Unemployed,HSC (12th Grade),Above 6 hours
+46 - 52,Female,Self -  Employed,Doctorate Degree (PhD),Less than 1 hour
+46 - 52,Female,Service,Graduation,1 - 2 hours
+53 - 59,Female,Unemployed,HSC (12th Grade),1 - 2 hours
+32 - 38,Female,Service,Graduation,2 - 4 hours
+25 - 31,Male,Service,Graduation,1 - 2 hours
+Below 18,Male,Student,HSC (12th Grade),1 - 2 hours
+25 - 31,Female,Self -  Employed,Post Graduation,2 - 4 hours
+18 - 24,Male,Student,HSC (12th Grade),1 - 2 hours
+39 - 45,Female,Unemployed,HSC (12th Grade),Above 6 hours
+18 - 24,Female,Self -  Employed,HSC (12th Grade),Above 6 hours
+32 - 38,Female,Service,Post Graduation,Less than 1 hour
+32 - 38,Female,Self -  Employed,Professional Degree,1 - 2 hours
+39 - 45,Female,Unemployed,HSC (12th Grade),Above 6 hours
+32 - 38,Male,Service,Professional Degree,Less than 1 hour
+39 - 45,Female,Service,Graduation,2 - 4 hours
+Below 18,Male,Student,Professional Degree,1 - 2 hours
+Below 18,Male,Student,Professional Degree,1 - 2 hours
+Below 18,Male,Student,SSC (10th Grade),1 - 2 hours
+25 - 31,Male,Service,Post Graduation,Less than 1 hour
+18 - 24,Female,Student,Graduation,1 - 2 hours
+39 - 45,Male,Service,Graduation,Less than 1 hour
+Below 18,Male,Student,SSC (10th Grade),1 - 2 hours
+Below 18,Male,Student,Professional Degree,1 - 2 hours
+Below 18,Male,Student,Professional Degree,Less than 1 hour

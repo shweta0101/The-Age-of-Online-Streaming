@@ -1,0 +1,786 @@
+Gender,Age,Employment,Education,Income,Cost,Subscription_Charges,Censoring,Future_Pay,WiFi,Watch_Time
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",No,Yes,Yes,Less than 1 hour
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,2 - 4 hours
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,330,"Yes, charges are too much",Yes,Yes,Yes,2 - 4 hours
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,Less than 1 hour
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,328,"No, charges are affordable",No,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,0,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",Maybe,No,Yes,1 - 2 hours
+Female,18 - 24,Unemployed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,No,Less than 1 hour
+Male,18 - 24,Service,Professional Degree,More than 10 Lakhs,400,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,Less than 1 Lakh,100,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,Above 6 hours
+Female,18 - 24,Self -  Employed,Post Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Female,18 - 24,Student,Professional Degree,3 Lakhs - 5 Lakhs,199,"Yes, charges are too much",Maybe,No,Yes,1 - 2 hours
+Male,18 - 24,Student,HSC,Less than 1 Lakh,199,"No, charges are affordable",Yes,Yes,No,2 - 4 hours
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",No,Yes,No,2 - 4 hours
+Male,25 - 31,Service,Post Graduation,More than 10 Lakhs,1000,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,0,"No, charges are affordable",Maybe,No,No,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",No,No,No,Less than 1 hour
+Female,18 - 24,Student,Professional Degree,1 Lakh - 3 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,1 - 2 hours
+Male,25 - 31,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,399,"Yes, charges are too much",No,Yes,No,1 - 2 hours
+Male,25 - 31,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,399,"Yes, charges are too much",No,Yes,No,1 - 2 hours
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,300,"Yes, but i'm fine with it as I like the contents",Yes,Yes,No,1 - 2 hours
+Female,39 - 45,Service,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,Less than 1 hour
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,130,"Yes, but i'm fine with it as I like the contents",No,No,Yes,2 - 4 hours
+Female,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,400,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Self -  Employed,Post Graduation,3 Lakhs - 5 Lakhs,699,"Yes, but i'm fine with it as I like the contents",No,No,No,2 - 4 hours
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",No,No,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,500,"Yes, charges are too much",No,No,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,0,"No, charges are affordable",Maybe,No,No,1 - 2 hours
+Female,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,83,"No, charges are affordable",No,No,Yes,1 - 2 hours
+Female,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,800,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Male,18 - 24,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,1800,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,Above 6 hours
+Male,25 - 31,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,500,"Yes, charges are too much",No,No,Yes,Less than 1 hour
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,No,4 - 6 hours
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Yes,Yes,Yes,Less than 1 hour
+Male,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,400,"Yes, but i'm fine with it as I like the contents",No,Yes,No,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,500,"Yes, charges are too much",Maybe,No,Yes,Above 6 hours
+Male,Below 18,Student,HSC,More than 10 Lakhs,400,"No, charges are affordable",No,Yes,Yes,Less than 1 hour
+Male,18 - 24,Unemployed,Graduation,3 Lakhs - 5 Lakhs,400,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Post Graduation,More than 10 Lakhs,999,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,199,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Male,25 - 31,Student,Professional Degree,3 Lakhs - 5 Lakhs,100,"No, charges are affordable",No,Yes,Yes,Above 6 hours
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,200,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Post Graduation,More than 10 Lakhs,0,"No, charges are affordable",No,No,Yes,2 - 4 hours
+Female,18 - 24,Service,Other,1 Lakh - 3 Lakhs,800,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Male,25 - 31,Student,Graduation,1 Lakh - 3 Lakhs,200,"Yes, but i'm fine with it as I like the contents",Maybe,No,No,2 - 4 hours
+Female,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,0,"No, charges are affordable",Maybe,No,No,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,300,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,1 - 2 hours
+Male,18 - 24,Student,Professional Degree,Less than 1 Lakh,500,"Yes, but i'm fine with it as I like the contents",No,No,Yes,Less than 1 hour
+Female,18 - 24,Retired,Post Graduation,1 Lakh - 3 Lakhs,500,"Yes, charges are too much",Maybe,No,Yes,Less than 1 hour
+Male,39 - 45,Self -  Employed,Graduation,More than 10 Lakhs,0,"No, charges are affordable",Yes,Yes,Yes,1 - 2 hours
+Female,18 - 24,Service,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,600,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,4 - 6 hours
+Male,18 - 24,Student,Professional Degree,5 Lakhs - 10 Lakhs,399,"Yes, charges are too much",No,Yes,Yes,2 - 4 hours
+Female,32 - 38,Service,Graduation,1 Lakh - 3 Lakhs,650,"No, charges are affordable",No,No,No,Less than 1 hour
+Male,18 - 24,Student,Graduation,Less than 1 Lakh,1000,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,200,"Yes, charges are too much",Yes,Yes,No,Less than 1 hour
+Male,18 - 24,Student,Post Graduation,Less than 1 Lakh,0,"No, charges are affordable",Maybe,No,No,1 - 2 hours
+Male,18 - 24,Service,Graduation,5 Lakhs - 10 Lakhs,599,"Yes, charges are too much",No,No,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",No,No,Yes,Less than 1 hour
+Male,39 - 45,Service,Graduation,1 Lakh - 3 Lakhs,83.25,"No, charges are affordable",Yes,Yes,Yes,1 - 2 hours
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,500,"Yes, charges are too much",Yes,Yes,No,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",No,No,Yes,1 - 2 hours
+Male,25 - 31,Self -  Employed,Post Graduation,3 Lakhs - 5 Lakhs,300,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,Above 6 hours
+Male,18 - 24,Service,Graduation,Less than 1 Lakh,600,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Male,18 - 24,Service,Post Graduation,1 Lakh - 3 Lakhs,300,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,1 - 2 hours
+Male,25 - 31,Service,Professional Degree,1 Lakh - 3 Lakhs,399,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Male,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,Less than 1 hour
+Female,25 - 31,Service,Professional Degree,5 Lakhs - 10 Lakhs,550,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,32 - 38,Service,Professional Degree,More than 10 Lakhs,100,"No, charges are affordable",Yes,No,No,Less than 1 hour
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,100,"Yes, charges are too much",No,No,Yes,Less than 1 hour
+Female,32 - 38,Unemployed,Post Graduation,Less than 1 Lakh,410,"Yes, charges are too much",Yes,No,Yes,Above 6 hours
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",No,No,No,Less than 1 hour
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,149,"Yes, but i'm fine with it as I like the contents",No,Yes,No,1 - 2 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,1000,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,2 - 4 hours
+Male,32 - 38,Service,Doctorate Degree (PhD),More than 10 Lakhs,200,"Yes, but i'm fine with it as I like the contents",Yes,No,No,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,500,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,800,"Yes, charges are too much",No,Yes,No,1 - 2 hours
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,800,"Yes, charges are too much",No,Yes,No,1 - 2 hours
+Male,39 - 45,Service,Doctorate Degree (PhD),More than 10 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,HSC,5 Lakhs - 10 Lakhs,200,"Yes, but i'm fine with it as I like the contents",No,Yes,No,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Service,Post Graduation,1 Lakh - 3 Lakhs,10,"Yes, but i'm fine with it as I like the contents",No,No,No,Less than 1 hour
+Female,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,199,"No, charges are affordable",Yes,Yes,No,2 - 4 hours
+Male,53 - 59,Service,Doctorate Degree (PhD),More than 10 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,Less than 1 hour
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,200,"Yes, charges are too much",Maybe,No,No,Less than 1 hour
+Male,18 - 24,Student,Post Graduation,More than 10 Lakhs,0,"No, charges are affordable",Maybe,No,Yes,Less than 1 hour
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,500,"No, charges are affordable",No,Yes,No,2 - 4 hours
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,199,"No, charges are affordable",Maybe,No,Yes,2 - 4 hours
+Male,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,500,"Yes, charges are too much",Maybe,No,Yes,1 - 2 hours
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,129,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,1 - 2 hours
+Male,25 - 31,Self -  Employed,Post Graduation,More than 10 Lakhs,1500,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Male,25 - 31,Self -  Employed,Post Graduation,More than 10 Lakhs,1500,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Female,39 - 45,Unemployed,SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Female,18 - 24,Student,Professional Degree,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,2 - 4 hours
+Female,32 - 38,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,32 - 38,Self -  Employed,Post Graduation,Less than 1 Lakh,350,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Male,18 - 24,Service,Post Graduation,3 Lakhs - 5 Lakhs,300,"No, charges are affordable",No,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,170,"Yes, charges are too much",Yes,No,No,Less than 1 hour
+Male,25 - 31,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,200,"Yes, but i'm fine with it as I like the contents",Yes,No,No,1 - 2 hours
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",No,No,Yes,1 - 2 hours
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,500,"Yes, charges are too much",Yes,No,No,1 - 2 hours
+Female,25 - 31,House Wife,Post Graduation,3 Lakhs - 5 Lakhs,200,"Yes, but i'm fine with it as I like the contents",Maybe,No,No,2 - 4 hours
+Male,25 - 31,Service,Graduation,Less than 1 Lakh,0,"Yes, charges are too much",No,No,No,2 - 4 hours
+Male,25 - 31,Unemployed,Post Graduation,Less than 1 Lakh,400,"No, charges are affordable",Yes,No,No,1 - 2 hours
+Male,18 - 24,Student,Graduation,Less than 1 Lakh,0,"Yes, charges are too much",No,No,Yes,1 - 2 hours
+Female,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,129,"Yes, charges are too much",Maybe,Yes,No,1 - 2 hours
+Male,18 - 24,Service,Post Graduation,More than 10 Lakhs,350,"No, charges are affordable",No,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,0,"Yes, but i'm fine with it as I like the contents",No,Yes,No,Less than 1 hour
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",No,No,Yes,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,Less than 1 Lakh,0,"Yes, charges are too much",Maybe,No,No,Less than 1 hour
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Yes,No,No,2 - 4 hours
+Female,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Female,18 - 24,Student,Post Graduation,Less than 1 Lakh,0,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Male,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",No,No,No,1 - 2 hours
+Female,18 - 24,Student,Graduation,Less than 1 Lakh,400,"Yes, charges are too much",Yes,Yes,No,2 - 4 hours
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Female,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,No,Less than 1 hour
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,Less than 1 hour
+Female,25 - 31,Unemployed,Post Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Female,18 - 24,Service,Post Graduation,Less than 1 Lakh,0,"No, charges are affordable",Maybe,No,Yes,Less than 1 hour
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,Less than 1 hour
+Male,18 - 24,Student,Post Graduation,Less than 1 Lakh,0,"No, charges are affordable",Yes,No,Yes,2 - 4 hours
+Female,18 - 24,Student,Graduation,More than 10 Lakhs,400,"No, charges are affordable",Maybe,No,Yes,1 - 2 hours
+Female,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,250,"Yes, charges are too much",Yes,Yes,Yes,1 - 2 hours
+Male,25 - 31,Self -  Employed,Post Graduation,1 Lakh - 3 Lakhs,300,"No, charges are affordable",Maybe,No,Yes,1 - 2 hours
+Male,32 - 38,Service,Professional Degree,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",Yes,Yes,No,2 - 4 hours
+Female,18 - 24,Service,Other,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",Yes,No,Yes,2 - 4 hours
+Male,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,400,"Yes, charges are too much",Maybe,No,No,Less than 1 hour
+Male,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,129,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Female,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,100,"Yes, charges are too much",Yes,No,No,1 - 2 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,299,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,400,"Yes, but i'm fine with it as I like the contents",No,No,No,2 - 4 hours
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,42,"No, charges are affordable",No,Yes,Yes,2 - 4 hours
+Male,39 - 45,Service,Post Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,1 - 2 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,400,"Yes, but i'm fine with it as I like the contents",No,No,Yes,Less than 1 hour
+Female,18 - 24,Self -  Employed,Professional Degree,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",No,No,Yes,Less than 1 hour
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",No,Yes,Yes,Less than 1 hour
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,399,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Female,46 - 52,Service,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,Less than 1 hour
+Female,18 - 24,Self -  Employed,HSC,1 Lakh - 3 Lakhs,400,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,2 - 4 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,500,"No, charges are affordable",No,No,No,2 - 4 hours
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,100,"Yes, charges are too much",Yes,Yes,Yes,Less than 1 hour
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Yes,No,Yes,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,4 - 6 hours
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Yes,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,100,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,No,4 - 6 hours
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",Yes,No,No,2 - 4 hours
+Female,18 - 24,Self -  Employed,Post Graduation,3 Lakhs - 5 Lakhs,600,"Yes, charges are too much",Yes,No,No,Less than 1 hour
+Female,60 and Above,Retired,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,4 - 6 hours
+Female,18 - 24,Self -  Employed,Post Graduation,More than 10 Lakhs,0,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,84,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Professional Degree,5 Lakhs - 10 Lakhs,400,"Yes, but i'm fine with it as I like the contents",Yes,Yes,No,1 - 2 hours
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",No,No,No,Less than 1 hour
+Male,25 - 31,Service,Professional Degree,5 Lakhs - 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,46 - 52,Service,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,18 - 24,Unemployed,Post Graduation,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",Yes,No,Yes,Less than 1 hour
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,100,"Yes, but i'm fine with it as I like the contents",No,Yes,No,1 - 2 hours
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",Yes,No,No,4 - 6 hours
+Female,18 - 24,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,No,Less than 1 hour
+Female,18 - 24,Student,HSC,Less than 1 Lakh,555,"Yes, charges are too much",Yes,No,No,Less than 1 hour
+Female,18 - 24,Student,Graduation,Less than 1 Lakh,0,"Yes, charges are too much",Yes,No,Yes,4 - 6 hours
+Male,53 - 59,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,350,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Male,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, but i'm fine with it as I like the contents",No,Yes,No,1 - 2 hours
+Female,25 - 31,Student,Post Graduation,3 Lakhs - 5 Lakhs,129,"Yes, charges are too much",Yes,No,Yes,2 - 4 hours
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,0,"No, charges are affordable",Yes,Yes,Yes,Less than 1 hour
+Female,18 - 24,Student,Graduation,Less than 1 Lakh,300,"Yes, charges are too much",Maybe,No,Yes,Less than 1 hour
+Male,18 - 24,Self -  Employed,Graduation,Less than 1 Lakh,129,"Yes, but i'm fine with it as I like the contents",No,No,Yes,1 - 2 hours
+Female,39 - 45,Service,Post Graduation,Less than 1 Lakh,400,"No, charges are affordable",Yes,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,HSC,1 Lakh - 3 Lakhs,1000,"Yes, but i'm fine with it as I like the contents",No,No,No,2 - 4 hours
+Male,39 - 45,Self -  Employed,Professional Degree,More than 10 Lakhs,360,"Yes, charges are too much",Yes,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,2000,"Yes, charges are too much",Yes,Yes,Yes,1 - 2 hours
+Female,18 - 24,Service,Post Graduation,1 Lakh - 3 Lakhs,200,"Yes, charges are too much",No,Yes,Yes,4 - 6 hours
+Male,25 - 31,Student,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,2 - 4 hours
+Female,18 - 24,Service,Graduation,5 Lakhs - 10 Lakhs,300,"No, charges are affordable",No,Yes,Yes,2 - 4 hours
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,200,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,25 - 31,Unemployed,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,2 - 4 hours
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,450,"Yes, charges are too much",Maybe,No,Yes,Less than 1 hour
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,No,No,1 - 2 hours
+Female,25 - 31,Service,Post Graduation,Less than 1 Lakh,150,"Yes, charges are too much",Yes,No,Yes,Less than 1 hour
+Female,46 - 52,Service,Doctorate Degree (PhD),5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Male,39 - 45,Service,Graduation,5 Lakhs - 10 Lakhs,300,"No, charges are affordable",Maybe,No,No,Less than 1 hour
+Male,18 - 24,Student,Post Graduation,Less than 1 Lakh,0,"No, charges are affordable",Maybe,No,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,500,"Yes, charges are too much",No,Yes,Yes,2 - 4 hours
+Male,25 - 31,Service,Graduation,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",Yes,No,Yes,2 - 4 hours
+Male,18 - 24,Service,Post Graduation,Less than 1 Lakh,0,"No, charges are affordable",No,No,Yes,Above 6 hours
+Male,46 - 52,Service,Professional Degree,More than 10 Lakhs,99,"Yes, charges are too much",Yes,No,Yes,Less than 1 hour
+Male,18 - 24,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, charges are too much",No,No,Yes,4 - 6 hours
+Male,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, but i'm fine with it as I like the contents",No,No,No,Less than 1 hour
+Male,18 - 24,Student,Post Graduation,Less than 1 Lakh,1000,"Yes, charges are too much",Yes,No,No,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Yes,No,No,Less than 1 hour
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,150,"Yes, charges are too much",No,No,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,Less than 1 Lakh,30,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",No,No,No,2 - 4 hours
+Female,18 - 24,Student,Professional Degree,Less than 1 Lakh,0,"Yes, charges are too much",No,No,Yes,1 - 2 hours
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,Above 6 hours
+Male,25 - 31,Service,HSC,Less than 1 Lakh,0,"Yes, charges are too much",Maybe,No,Yes,1 - 2 hours
+Female,18 - 24,Student,HSC,Less than 1 Lakh,0,"No, charges are affordable",Maybe,No,Yes,1 - 2 hours
+Female,25 - 31,Unemployed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,25 - 31,Service,HSC,Less than 1 Lakh,450,"Yes, but i'm fine with it as I like the contents",Yes,No,No,2 - 4 hours
+Female,18 - 24,Unemployed,Professional Degree,Less than 1 Lakh,2000,"Yes, charges are too much",Yes,No,Yes,4 - 6 hours
+Male,18 - 24,Service,Graduation,3 Lakhs - 5 Lakhs,1200,"Yes, but i'm fine with it as I like the contents",Yes,No,Yes,Above 6 hours
+Male,Below 18,Student,Graduation,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,399,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,149,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Male,25 - 31,Service,Post Graduation,More than 10 Lakhs,80,"No, charges are affordable",Maybe,Yes,Yes,1 - 2 hours
+Male,18 - 24,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Male,Below 18,Student,SSC,Less than 1 Lakh,650,"Yes, but i'm fine with it as I like the contents",No,No,Yes,1 - 2 hours
+Male,53 - 59,Self -  Employed,Professional Degree,More than 10 Lakhs,1000,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,100,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,999,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,32 - 38,Unemployed,Post Graduation,1 Lakh - 3 Lakhs,550,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Service,Graduation,3 Lakhs - 5 Lakhs,900,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Male,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",Yes,No,No,1 - 2 hours
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,No,1 - 2 hours
+Male,25 - 31,Student,Doctorate Degree (PhD),3 Lakhs - 5 Lakhs,26,"No, charges are affordable",Yes,No,Yes,Less than 1 hour
+Female,18 - 24,Self -  Employed,Professional Degree,1 Lakh - 3 Lakhs,500,"Yes, charges are too much",Yes,No,Yes,Less than 1 hour
+Male,25 - 31,Service,Post Graduation,More than 10 Lakhs,300,"No, charges are affordable",Yes,Yes,Yes,1 - 2 hours
+Female,25 - 31,Service,Other,More than 10 Lakhs,500,"Yes, charges are too much",No,Yes,Yes,1 - 2 hours
+Female,39 - 45,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,Below 18,Student,HSC,Less than 1 Lakh,0,"No, charges are affordable",No,No,No,Less than 1 hour
+Female,Below 18,Student,HSC,3 Lakhs - 5 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,1 - 2 hours
+Female,25 - 31,Unemployed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,4 - 6 hours
+Male,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,1 - 2 hours
+Male,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Female,25 - 31,Unemployed,Graduation,1 Lakh - 3 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,32 - 38,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,400,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,53 - 59,Unemployed,HSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Female,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",Maybe,Yes,Yes,2 - 4 hours
+Female,25 - 31,Self -  Employed,Professional Degree,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,46 - 52,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,Less than 1 Lakh,129,"Yes, but i'm fine with it as I like the contents",Yes,No,Yes,2 - 4 hours
+Male,Below 18,Student,HSC,Less than 1 Lakh,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Female,18 - 24,Self -  Employed,HSC,Less than 1 Lakh,50,"No, charges are affordable",Yes,No,No,1 - 2 hours
+Female,53 - 59,Unemployed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,2 - 4 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,30,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,25 - 31,Unemployed,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,4 - 6 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Professional Degree,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,2 - 4 hours
+Male,25 - 31,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,4,"No, charges are affordable",No,No,Yes,1 - 2 hours
+Male,18 - 24,Service,Graduation,Less than 1 Lakh,1200,"Yes, charges are too much",No,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,500,"No, charges are affordable",Maybe,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,300,"Yes, but i'm fine with it as I like the contents",No,No,Yes,2 - 4 hours
+Female,46 - 52,Service,Doctorate Degree (PhD),More than 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Female,18 - 24,Service,Post Graduation,5 Lakhs - 10 Lakhs,500,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Male,18 - 24,Service,Post Graduation,3 Lakhs - 5 Lakhs,200,"Yes, charges are too much",No,Yes,Yes,Less than 1 hour
+Male,18 - 24,Service,Post Graduation,1 Lakh - 3 Lakhs,690,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,No,1 - 2 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,300,"Yes, charges are too much",No,No,No,Less than 1 hour
+Male,32 - 38,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,0,"No, charges are affordable",Yes,No,Yes,1 - 2 hours
+Female,18 - 24,Service,Graduation,Less than 1 Lakh,0,"No, charges are affordable",Maybe,No,No,1 - 2 hours
+Male,Below 18,Student,HSC,Less than 1 Lakh,300,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Female,25 - 31,Unemployed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,No,Above 6 hours
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Male,32 - 38,Service,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Male,53 - 59,Service,SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Female,46 - 52,Unemployed,SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,4 - 6 hours
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,199,"Yes, charges are too much",Maybe,Yes,No,2 - 4 hours
+Female,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,1 - 2 hours
+Male,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Male,25 - 31,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,1000,"Yes, charges are too much",No,No,Yes,Above 6 hours
+Male,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,350,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,Below 18,Student,SSC,1 Lakh - 3 Lakhs,500,"Yes, but i'm fine with it as I like the contents",No,Yes,No,2 - 4 hours
+Female,Below 18,Student,HSC,More than 10 Lakhs,1000,"Yes, charges are too much",Yes,Yes,Yes,1 - 2 hours
+Female,Below 18,Student,SSC,Less than 1 Lakh,0,"Yes, charges are too much",Yes,Yes,Yes,1 - 2 hours
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,1500,"No, charges are affordable",No,Yes,No,1 - 2 hours
+Female,53 - 59,House Wife,SSC,1 Lakh - 3 Lakhs,0,"No, charges are affordable",Yes,No,Yes,Less than 1 hour
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",Yes,No,Yes,1 - 2 hours
+Female,Below 18,Student,HSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,1 - 2 hours
+Male,Below 18,Student,Below SSC,Less than 1 Lakh,200,"Yes, charges are too much",Yes,No,No,1 - 2 hours
+Female,Below 18,Student,SSC,Less than 1 Lakh,200,"Yes, but i'm fine with it as I like the contents",Maybe,No,No,2 - 4 hours
+Female,25 - 31,Self -  Employed,SSC,1 Lakh - 3 Lakhs,200,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Male,Below 18,Student,SSC,Less than 1 Lakh,0,"Yes, but i'm fine with it as I like the contents",No,No,Yes,1 - 2 hours
+Male,Below 18,Student,SSC,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",Yes,Yes,No,1 - 2 hours
+Male,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,300,"Yes, charges are too much",No,No,Yes,Less than 1 hour
+Female,46 - 52,Unemployed,HSC,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,4 - 6 hours
+Male,60 and Above,Retired,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Female,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,2 - 4 hours
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Female,53 - 59,Self -  Employed,HSC,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,25 - 31,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,199,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,0,"Yes, charges are too much",Yes,No,No,Less than 1 hour
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,30,"Yes, charges are too much",No,Yes,Yes,Less than 1 hour
+Female,46 - 52,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,39 - 45,Service,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,2 - 4 hours
+Female,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Yes,No,No,1 - 2 hours
+Female,32 - 38,Unemployed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,Less than 1 hour
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,799,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,365,"Yes, charges are too much",No,No,No,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,800,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,350,"Yes, charges are too much",Yes,No,Yes,2 - 4 hours
+Female,Below 18,Student,Professional Degree,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Yes,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,HSC,1 Lakh - 3 Lakhs,250,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,199,"Yes, charges are too much",No,No,Yes,1 - 2 hours
+Male,Below 18,Student,HSC,5 Lakhs - 10 Lakhs,129,"No, charges are affordable",No,Yes,Yes,4 - 6 hours
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,500,"Yes, charges are too much",Yes,No,Yes,2 - 4 hours
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,500,"Yes, charges are too much",Yes,No,Yes,2 - 4 hours
+Female,Below 18,Student,HSC,1 Lakh - 3 Lakhs,450,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Female,Below 18,Student,HSC,3 Lakhs - 5 Lakhs,650,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,Below 18,Student,HSC,Less than 1 Lakh,129,"Yes, but i'm fine with it as I like the contents",No,Yes,No,1 - 2 hours
+Male,Below 18,Student,HSC,3 Lakhs - 5 Lakhs,120,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,4 - 6 hours
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,400,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Below SSC,Less than 1 Lakh,999,"Yes, charges are too much",Yes,Yes,Yes,1 - 2 hours
+Male,Below 18,Student,Below SSC,Less than 1 Lakh,300,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Male,Below 18,Student,Below SSC,Less than 1 Lakh,450,"No, charges are affordable",Yes,No,Yes,2 - 4 hours
+Female,18 - 24,Service,Graduation,More than 10 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,1 - 2 hours
+Female,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,1 - 2 hours
+Male,18 - 24,Self -  Employed,Post Graduation,More than 10 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,Less than 1 hour
+Female,53 - 59,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,46 - 52,Service,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,2 - 4 hours
+Female,32 - 38,Unemployed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,2 - 4 hours
+Female,32 - 38,Service,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,4 - 6 hours
+Female,39 - 45,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,4 - 6 hours
+Female,46 - 52,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,32 - 38,Service,HSC,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Male,39 - 45,Self -  Employed,Post Graduation,1 Lakh - 3 Lakhs,450,"No, charges are affordable",Yes,No,Yes,1 - 2 hours
+Female,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,600,"Yes, charges are too much",No,Yes,Yes,1 - 2 hours
+Female,53 - 59,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,46 - 52,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,190,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,46 - 52,Service,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,300,"Yes, charges are too much",No,No,No,2 - 4 hours
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,0,"No, charges are affordable",Yes,No,Yes,2 - 4 hours
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,300,"No, charges are affordable",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",Maybe,Yes,No,4 - 6 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,650,"Yes, charges are too much",No,No,Yes,2 - 4 hours
+Male,18 - 24,Service,Graduation,Less than 1 Lakh,0,"Yes, charges are too much",No,No,Yes,4 - 6 hours
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,200,"Yes, charges are too much",Yes,No,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,90,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Post Graduation,Less than 1 Lakh,0,"Yes, charges are too much",Maybe,No,No,Less than 1 hour
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,500,"Yes, charges are too much",Maybe,Yes,Yes,Less than 1 hour
+Male,18 - 24,Student,Post Graduation,More than 10 Lakhs,0,"Yes, charges are too much",No,No,No,2 - 4 hours
+Male,18 - 24,Student,Post Graduation,Less than 1 Lakh,0,"Yes, charges are too much",Maybe,Yes,No,4 - 6 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,129,"No, charges are affordable",Maybe,No,Yes,Less than 1 hour
+Male,18 - 24,Service,Graduation,5 Lakhs - 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,130,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,299,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",No,No,Yes,1 - 2 hours
+Female,18 - 24,Service,Graduation,More than 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,250,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Female,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,100,"No, charges are affordable",Maybe,No,Yes,Less than 1 hour
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,25 - 31,Service,Post Graduation,More than 10 Lakhs,900,"No, charges are affordable",No,Yes,Yes,2 - 4 hours
+Male,18 - 24,Unemployed,Graduation,Less than 1 Lakh,1000,"Yes, charges are too much",No,Yes,No,Less than 1 hour
+Female,18 - 24,Student,Professional Degree,3 Lakhs - 5 Lakhs,1000,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,4 - 6 hours
+Male,18 - 24,Student,HSC,More than 10 Lakhs,800,"No, charges are affordable",No,No,Yes,1 - 2 hours
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,0,"No, charges are affordable",No,Yes,No,2 - 4 hours
+Male,18 - 24,Student,HSC,More than 10 Lakhs,800,"No, charges are affordable",No,No,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,500,"Yes, charges are too much",No,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,1400,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,Above 6 hours
+Male,18 - 24,Student,Post Graduation,More than 10 Lakhs,90,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Female,46 - 52,Unemployed,HSC,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,4 - 6 hours
+Female,39 - 45,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,129,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,229,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,25 - 31,Student,Graduation,1 Lakh - 3 Lakhs,0,"No, charges are affordable",Maybe,No,Yes,4 - 6 hours
+Female,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",No,Yes,Yes,4 - 6 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,650,"Yes, charges are too much",No,No,Yes,2 - 4 hours
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,129,"No, charges are affordable",No,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,200,"No, charges are affordable",Yes,Yes,No,1 - 2 hours
+Male,Below 18,Student,HSC,More than 10 Lakhs,200,"No, charges are affordable",No,Yes,No,2 - 4 hours
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,2 - 4 hours
+Male,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",No,Yes,No,1 - 2 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,500,"No, charges are affordable",Maybe,Yes,Yes,4 - 6 hours
+Male,18 - 24,Service,Graduation,5 Lakhs - 10 Lakhs,100,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,HSC,5 Lakhs - 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",No,No,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, but i'm fine with it as I like the contents",No,Yes,No,2 - 4 hours
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,500,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,4 - 6 hours
+Female,18 - 24,Service,Other,5 Lakhs - 10 Lakhs,84,"No, charges are affordable",No,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Professional Degree,1 Lakh - 3 Lakhs,150,"Yes, charges are too much",No,No,Yes,4 - 6 hours
+Male,18 - 24,Student,HSC,Less than 1 Lakh,0,"No, charges are affordable",No,No,No,1 - 2 hours
+Male,39 - 45,Service,Post Graduation,5 Lakhs - 10 Lakhs,1000,"Yes, but i'm fine with it as I like the contents",No,Yes,No,1 - 2 hours
+Male,18 - 24,Student,Graduation,Less than 1 Lakh,250,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,80,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,2 - 4 hours
+Male,18 - 24,Student,Professional Degree,Less than 1 Lakh,100,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,Less than 1 Lakh,0,"Yes, charges are too much",No,No,No,2 - 4 hours
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,2000,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,800,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,2 - 4 hours
+Female,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Yes,No,No,1 - 2 hours
+Male,18 - 24,Service,Professional Degree,More than 10 Lakhs,120,"Yes, charges are too much",No,Yes,Yes,Less than 1 hour
+Female,25 - 31,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,25 - 31,Unemployed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Post Graduation,Less than 1 Lakh,200,"Yes, charges are too much",Maybe,Yes,No,Less than 1 hour
+Female,46 - 52,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Male,25 - 31,Student,Graduation,Less than 1 Lakh,0,"Yes, but i'm fine with it as I like the contents",Yes,No,No,Less than 1 hour
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,139,"Yes, charges are too much",No,No,No,Less than 1 hour
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,800,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,25 - 31,Student,Graduation,3 Lakhs - 5 Lakhs,1000,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Female,25 - 31,Service,Graduation,5 Lakhs - 10 Lakhs,129,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,100,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Male,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Yes,Yes,No,1 - 2 hours
+Female,18 - 24,Student,HSC,1 Lakh - 3 Lakhs,500,"No, charges are affordable",Maybe,No,Yes,1 - 2 hours
+Male,18 - 24,Student,HSC,Less than 1 Lakh,0,"Yes, charges are too much",No,No,No,2 - 4 hours
+Male,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Yes,No,No,Less than 1 hour
+Male,18 - 24,Student,HSC,5 Lakhs - 10 Lakhs,90,"Yes, charges are too much",Yes,No,No,Less than 1 hour
+Female,Below 18,Student,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,250,"Yes, charges are too much",No,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,799,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,450,"Yes, charges are too much",No,No,Yes,2 - 4 hours
+Female,18 - 24,Student,Graduation,More than 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,4 - 6 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,799,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,Less than 1 hour
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,250,"Yes, but i'm fine with it as I like the contents",No,No,No,4 - 6 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,200,"No, charges are affordable",No,Yes,No,1 - 2 hours
+Male,18 - 24,Service,Post Graduation,1 Lakh - 3 Lakhs,0,"No, charges are affordable",No,Yes,Yes,Less than 1 hour
+Male,18 - 24,Student,Post Graduation,More than 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Male,53 - 59,Self -  Employed,SSC,1 Lakh - 3 Lakhs,0,"No, charges are affordable",Maybe,No,Yes,1 - 2 hours
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,100,"Yes, charges are too much",Maybe,No,Yes,Less than 1 hour
+Male,25 - 31,Self -  Employed,Doctorate Degree (PhD),More than 10 Lakhs,600,"No, charges are affordable",Yes,Yes,Yes,2 - 4 hours
+Male,18 - 24,Service,Post Graduation,5 Lakhs - 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,Less than 1 hour
+Female,32 - 38,Unemployed,Post Graduation,5 Lakhs - 10 Lakhs,700,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,449,"Yes, charges are too much",Maybe,No,Yes,1 - 2 hours
+Male,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",No,No,Yes,2 - 4 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, charges are too much",No,No,No,1 - 2 hours
+Male,32 - 38,Self -  Employed,Post Graduation,More than 10 Lakhs,1000,"Yes, charges are too much",No,Yes,Yes,Less than 1 hour
+Male,25 - 31,Service,Post Graduation,More than 10 Lakhs,200,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,Less than 1 hour
+Male,32 - 38,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,800,"Yes, but i'm fine with it as I like the contents",No,Yes,No,1 - 2 hours
+Female,32 - 38,Unemployed,Post Graduation,5 Lakhs - 10 Lakhs,700,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Unemployed,Graduation,Less than 1 Lakh,0,"Yes, but i'm fine with it as I like the contents",No,No,Yes,1 - 2 hours
+Female,53 - 59,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,53 - 59,Service,Graduation,5 Lakhs - 10 Lakhs,299,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,4 - 6 hours
+Female,53 - 59,Self -  Employed,HSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Male,53 - 59,Unemployed,Below SSC,5 Lakhs - 10 Lakhs,415,"No, charges are affordable",No,No,No,1 - 2 hours
+Female,46 - 52,Unemployed,HSC,3 Lakhs - 5 Lakhs,299,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,2 - 4 hours
+Male,53 - 59,Unemployed,Below SSC,5 Lakhs - 10 Lakhs,415,"No, charges are affordable",No,No,No,1 - 2 hours
+Female,46 - 52,Service,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,53 - 59,Unemployed,Below SSC,5 Lakhs - 10 Lakhs,415,"No, charges are affordable",No,No,No,1 - 2 hours
+Female,39 - 45,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,4 - 6 hours
+Female,46 - 52,Unemployed,HSC,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,53 - 59,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,900,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,4 - 6 hours
+Male,60 and Above,Service,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Male,46 - 52,Unemployed,HSC,1 Lakh - 3 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,2 - 4 hours
+Female,39 - 45,Unemployed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,4 - 6 hours
+Female,39 - 45,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,2 - 4 hours
+Female,46 - 52,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,4 - 6 hours
+Female,53 - 59,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Male,53 - 59,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,39 - 45,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Service,Graduation,Less than 1 Lakh,0,"Yes, charges are too much",No,No,No,4 - 6 hours
+Male,46 - 52,Service,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,46 - 52,Service,Graduation,5 Lakhs - 10 Lakhs,299,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,46 - 52,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Male,25 - 31,Student,Doctorate Degree (PhD),5 Lakhs - 10 Lakhs,599,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,2 - 4 hours
+Male,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Female,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,199,"No, charges are affordable",Maybe,Yes,Yes,2 - 4 hours
+Male,39 - 45,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,53 - 59,Unemployed,HSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,53 - 59,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,53 - 59,Service,Graduation,5 Lakhs - 10 Lakhs,199,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Female,Below 18,Student,SSC,Less than 1 Lakh,300,"Yes, charges are too much",No,Yes,No,Less than 1 hour
+Male,39 - 45,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,199,"Yes, charges are too much",Maybe,Yes,No,2 - 4 hours
+Male,53 - 59,Service,Graduation,5 Lakhs - 10 Lakhs,199,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Female,39 - 45,Unemployed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,25 - 31,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,355,"Yes, charges are too much",Yes,No,Yes,2 - 4 hours
+Female,25 - 31,House Wife ,Graduation,5 Lakhs - 10 Lakhs,460,"No, charges are affordable",Maybe,No,Yes,4 - 6 hours
+Female,46 - 52,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,2 - 4 hours
+Male,32 - 38,Service,Professional Degree,1 Lakh - 3 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Yes,No,No,Less than 1 hour
+Male,46 - 52,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,530,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,4 - 6 hours
+Male,32 - 38,Self -  Employed,Professional Degree,3 Lakhs - 5 Lakhs,250,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Male,39 - 45,Self -  Employed,Professional Degree,More than 10 Lakhs,100,"Yes, charges are too much",No,No,Yes,1 - 2 hours
+Male,53 - 59,Service,Graduation,More than 10 Lakhs,150,"Yes, charges are too much",Yes,No,Yes,Less than 1 hour
+Male,53 - 59,Service,Graduation,3 Lakhs - 5 Lakhs,629,"Yes, charges are too much",No,No,No,1 - 2 hours
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,4 - 6 hours
+Female,25 - 31,Service,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,Less than 1 hour
+Male,18 - 24,Student,Professional Degree,Less than 1 Lakh,2000,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,4 - 6 hours
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,200,"Yes, charges are too much",Maybe,No,Yes,1 - 2 hours
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,No,2 - 4 hours
+Male,32 - 38,Service,Graduation,1 Lakh - 3 Lakhs,100,"Yes, charges are too much",Yes,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,150,"Yes, but i'm fine with it as I like the contents",Maybe,No,No,1 - 2 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,399,"No, charges are affordable",No,No,No,1 - 2 hours
+Female,18 - 24,Student,Graduation,Less than 1 Lakh,0,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Male,53 - 59,Service,Post Graduation,More than 10 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Male,32 - 38,Service,Post Graduation,More than 10 Lakhs,700,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Female,46 - 52,Service,Graduation,5 Lakhs - 10 Lakhs,750,"Yes, charges are too much",Yes,No,Yes,2 - 4 hours
+Female,18 - 24,Unemployed,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",No,No,No,Less than 1 hour
+Female,60 and Above,Retired,Graduation,More than 10 Lakhs,850,"No, charges are affordable",No,Yes,Yes,Above 6 hours
+Female,53 - 59,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,53 - 59,Service,Professional Degree,3 Lakhs - 5 Lakhs,599,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,4 - 6 hours
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Female,46 - 52,Service,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,25 - 31,Service,Graduation,5 Lakhs - 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Female,46 - 52,Unemployed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,4 - 6 hours
+Male,46 - 52,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,1200,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Male,Below 18,Student,Graduation,Less than 1 Lakh,0,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,Above 6 hours
+Female,39 - 45,Service,Professional Degree,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,600,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Yes,Yes,Yes,Less than 1 hour
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,84,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,Graduation,More than 10 Lakhs,150,"No, charges are affordable",No,Yes,Yes,Less than 1 hour
+Female,39 - 45,Unemployed,Graduation,3 Lakhs - 5 Lakhs,600,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,700,"Yes, charges are too much",No,Yes,Yes,4 - 6 hours
+Male,25 - 31,Service,HSC,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",Yes,No,No,1 - 2 hours
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,1000,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Female,18 - 24,Unemployed,Post Graduation,Less than 1 Lakh,250,"No, charges are affordable",Maybe,No,No,2 - 4 hours
+Female,32 - 38,Service,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",No,No,No,1 - 2 hours
+Male,25 - 31,Service,Professional Degree,More than 10 Lakhs,199,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,HSC,Less than 1 Lakh,0,"Yes, charges are too much",Maybe,No,No,Less than 1 hour
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,200,"Yes, but i'm fine with it as I like the contents",No,Yes,No,2 - 4 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,20,"No, charges are affordable",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,200,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,HSC,Less than 1 Lakh,0,"Yes, charges are too much",Maybe,No,Yes,1 - 2 hours
+Male,Below 18,Student,HSC,Less than 1 Lakh,129,"Yes, but i'm fine with it as I like the contents",No,No,No,1 - 2 hours
+Female,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,Less than 1 hour
+Male,18 - 24,Service,Graduation,3 Lakhs - 5 Lakhs,1000,"Yes, charges are too much",No,No,Yes,4 - 6 hours
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,100,"No, charges are affordable",No,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, but i'm fine with it as I like the contents",No,No,Yes,1 - 2 hours
+Male,Below 18,Student,HSC,Less than 1 Lakh,1200,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,1 - 2 hours
+Female,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,200,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,200,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Female,53 - 59,Service,Doctorate Degree (PhD),More than 10 Lakhs,199,"No, charges are affordable",Maybe,Yes,Yes,Less than 1 hour
+Female,18 - 24,Student,Professional Degree,1 Lakh - 3 Lakhs,600,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Male,Below 18,Student,HSC,5 Lakhs - 10 Lakhs,300,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,1200,"No, charges are affordable",Yes,Yes,Yes,Above 6 hours
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,200,"Yes, charges are too much",No,No,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,2000,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Male,32 - 38,Student,Graduation,Less than 1 Lakh,500,"Yes, charges are too much",No,Yes,Yes,1 - 2 hours
+Female,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,0,"No, charges are affordable",Yes,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,200,"Yes, but i'm fine with it as I like the contents",Yes,No,No,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,200,"Yes, but i'm fine with it as I like the contents",Yes,No,No,1 - 2 hours
+Female,18 - 24,Student,Graduation,Less than 1 Lakh,0,"Yes, charges are too much",Yes,No,No,2 - 4 hours
+Male,18 - 24,Student,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Yes,No,No,1 - 2 hours
+Female,18 - 24,Student,Post Graduation,Less than 1 Lakh,0,"Yes, charges are too much",No,No,Yes,1 - 2 hours
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,2000,"Yes, charges are too much",Maybe,Yes,Yes,Above 6 hours
+Male,18 - 24,Service,Post Graduation,1 Lakh - 3 Lakhs,299,"Yes, charges are too much",No,Yes,Yes,Less than 1 hour
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,2 - 4 hours
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,83.33,"No, charges are affordable",Maybe,Yes,Yes,4 - 6 hours
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Female,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,650,"Yes, charges are too much",No,Yes,Yes,Less than 1 hour
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",No,No,No,1 - 2 hours
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,200,"Yes, but i'm fine with it as I like the contents",Yes,Yes,No,Less than 1 hour
+Male,18 - 24,Student,HSC,Less than 1 Lakh,200,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,Below 18,Student,SSC,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Male,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,Below 18,Student,SSC,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,4 - 6 hours
+Male,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,32 - 38,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,32 - 38,Service,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,4 - 6 hours
+Female,18 - 24,Student,Post Graduation,Less than 1 Lakh,0,"Yes, charges are too much",Maybe,No,Yes,1 - 2 hours
+Male,25 - 31,Service,Below SSC,1 Lakh - 3 Lakhs,0,"No, charges are affordable",Maybe,Yes,Yes,2 - 4 hours
+Female,25 - 31,House Wife ,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,4 - 6 hours
+Male,53 - 59,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,129,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Male,25 - 31,Self -  Employed,HSC,More than 10 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,4 - 6 hours
+Male,18 - 24,Student,Graduation,Less than 1 Lakh,249,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,Less than 1 hour
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,499,"Yes, charges are too much",No,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,219,"Yes, charges are too much",Maybe,Yes,No,1 - 2 hours
+Male,18 - 24,Student,Post Graduation,More than 10 Lakhs,1000,"No, charges are affordable",No,Yes,Yes,Less than 1 hour
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,200,"Yes, charges are too much",Yes,Yes,No,1 - 2 hours
+Female,25 - 31,Service,Post Graduation,More than 10 Lakhs,500,"No, charges are affordable",Maybe,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,HSC,3 Lakhs - 5 Lakhs,400,"Yes, charges are too much",No,No,Yes,2 - 4 hours
+Male,18 - 24,Service,Graduation,5 Lakhs - 10 Lakhs,300,"No, charges are affordable",Maybe,No,Yes,Above 6 hours
+Female,53 - 59,Service,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,53 - 59,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,53 - 59,Service,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,53 - 59,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,53 - 59,Service,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,No,2 - 4 hours
+Female,46 - 52,Unemployed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,2 - 4 hours
+Female,46 - 52,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,46 - 52,Service,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Male,46 - 52,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",Maybe,Yes,Yes,2 - 4 hours
+Female,46 - 52,Unemployed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,46 - 52,Self -  Employed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Male,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Male,46 - 52,Service,Professional Degree,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",Maybe,No,No,2 - 4 hours
+Female,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,599,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,2 - 4 hours
+Female,39 - 45,Self -  Employed,HSC,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,2 - 4 hours
+Male,39 - 45,Unemployed,SSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Male,39 - 45,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,699,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,2 - 4 hours
+Male,39 - 45,Self -  Employed,Doctorate Degree (PhD),More than 10 Lakhs,0,"No, charges are affordable",Maybe,Yes,Yes,1 - 2 hours
+Male,39 - 45,Service,HSC,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,39 - 45,Service,HSC,1 Lakh - 3 Lakhs,0,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Female,39 - 45,Self -  Employed,HSC,1 Lakh - 3 Lakhs,0,"No, charges are affordable",Maybe,Yes,Yes,1 - 2 hours
+Male,39 - 45,Self -  Employed,Professional Degree,1 Lakh - 3 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,2 - 4 hours
+Male,39 - 45,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,39 - 45,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Male,39 - 45,Service,Doctorate Degree (PhD),More than 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Female,39 - 45,Unemployed,HSC,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,Above 6 hours
+Male,53 - 59,Service,Professional Degree,More than 10 Lakhs,200,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,53 - 59,Unemployed,SSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,Above 6 hours
+Female,60 and Above,Unemployed,HSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,No,Above 6 hours
+Male,60 and Above,Retired,SSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,Above 6 hours
+Female,53 - 59,Unemployed,SSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,Above 6 hours
+Male,Below 18,Student,SSC,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Female,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Male,Below 18,Student,SSC,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",Maybe,Yes,No,4 - 6 hours
+Male,32 - 38,Service,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,1 - 2 hours
+Male,39 - 45,Service,Post Graduation,More than 10 Lakhs,300,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,1000,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,1000,"No, charges are affordable",Maybe,Yes,No,1 - 2 hours
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,800,"No, charges are affordable",No,Yes,Yes,4 - 6 hours
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,150,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, but i'm fine with it as I like the contents",No,Yes,No,2 - 4 hours
+Male,18 - 24,Student,Doctorate Degree (PhD),Less than 1 Lakh,0,"No, charges are affordable",Maybe,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,399,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,500,"Yes, but i'm fine with it as I like the contents",No,Yes,No,1 - 2 hours
+Female,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,750,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Male,32 - 38,Service,Post Graduation,3 Lakhs - 5 Lakhs,129,"No, charges are affordable",No,Yes,Yes,4 - 6 hours
+Female,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,300,"Yes, charges are too much",Yes,Yes,No,Less than 1 hour
+Male,18 - 24,Service,Professional Degree,3 Lakhs - 5 Lakhs,1500,"Yes, charges are too much",No,No,Yes,2 - 4 hours
+Male,25 - 31,Service,Post Graduation,More than 10 Lakhs,100,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,Above 6 hours
+Male,18 - 24,Unemployed,Graduation,1 Lakh - 3 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,Above 6 hours
+Female,39 - 45,Service,Professional Degree,More than 10 Lakhs,365,"No, charges are affordable",Yes,Yes,Yes,Less than 1 hour
+Female,53 - 59,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",Maybe,Yes,Yes,1 - 2 hours
+Female,53 - 59,Self -  Employed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,350,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,20,"No, charges are affordable",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Service,Graduation,3 Lakhs - 5 Lakhs,199,"No, charges are affordable",No,Yes,No,1 - 2 hours
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,130,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Male,39 - 45,Service,Post Graduation,More than 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,46 - 52,Service,Professional Degree,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",Maybe,Yes,Yes,1 - 2 hours
+Male,18 - 24,Service,Graduation,Less than 1 Lakh,83,"No, charges are affordable",No,Yes,Yes,Less than 1 hour
+Female,46 - 52,Unemployed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,Above 6 hours
+Female,39 - 45,Unemployed,HSC,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,4 - 6 hours
+Male,60 and Above,Retired,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,4 - 6 hours
+Male,53 - 59,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,46 - 52,Service,Professional Degree,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Male,39 - 45,Service,Professional Degree,5 Lakhs - 10 Lakhs,299,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,2 - 4 hours
+Male,25 - 31,Student,Doctorate Degree (PhD),5 Lakhs - 10 Lakhs,599,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Female,25 - 31,Self -  Employed,Professional Degree,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,2 - 4 hours
+Male,39 - 45,Service,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,32 - 38,Service,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Male,39 - 45,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,32 - 38,Unemployed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,39 - 45,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,400,"Yes, charges are too much",Yes,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,Professional Degree,1 Lakh - 3 Lakhs,800,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Male,25 - 31,Service,Post Graduation,More than 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,200,"Yes, charges are too much",Yes,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,HSC,5 Lakhs - 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,Above 6 hours
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,300,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,Less than 1 hour
+Female,18 - 24,Student,Professional Degree,More than 10 Lakhs,200,"Yes, charges are too much",No,Yes,Yes,4 - 6 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Yes,No,No,Less than 1 hour
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,100,"Yes, charges are too much",No,No,No,1 - 2 hours
+Female,18 - 24,Student,Graduation,Less than 1 Lakh,0,"Yes, charges are too much",Yes,No,No,Less than 1 hour
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,1 - 2 hours
+Female,Below 18,Student,Below SSC,5 Lakhs - 10 Lakhs,350,"Yes, charges are too much",Maybe,Yes,No,2 - 4 hours
+Male,Below 18,Student,SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,No,1 - 2 hours
+Female,39 - 45,Unemployed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,4 - 6 hours
+Male,46 - 52,Service,Post Graduation,More than 10 Lakhs,599,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Female,25 - 31,Unemployed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,Above 6 hours
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",No,No,Yes,2 - 4 hours
+Female,32 - 38,Unemployed,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,25 - 31,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,32 - 38,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,2 - 4 hours
+Female,18 - 24,Unemployed,Graduation,1 Lakh - 3 Lakhs,199,"Yes, charges are too much",Yes,Yes,No,1 - 2 hours
+Female,32 - 38,Unemployed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,4 - 6 hours
+Female,39 - 45,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,199,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",No,Yes,Yes,1 - 2 hours
+Male,32 - 38,Service,Graduation,1 Lakh - 3 Lakhs,399,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Male,32 - 38,Service,Graduation,1 Lakh - 3 Lakhs,399,"Yes, charges are too much",Maybe,No,No,1 - 2 hours
+Male,18 - 24,Self -  Employed,HSC,Less than 1 Lakh,110,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,Less than 1 hour
+Female,Below 18,Student,Below SSC,Less than 1 Lakh,300,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,Less than 1 hour
+Male,39 - 45,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Yes,No,No,1 - 2 hours
+Female,39 - 45,Service,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Yes,Yes,No,2 - 4 hours
+Female,18 - 24,Service,Post Graduation,1 Lakh - 3 Lakhs,399,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Male,Below 18,Student,HSC,More than 10 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,Less than 1 hour
+Male,25 - 31,Student,Graduation,1 Lakh - 3 Lakhs,200,"No, charges are affordable",Maybe,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Female,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,100,"No, charges are affordable",Maybe,No,No,1 - 2 hours
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,No,No,Less than 1 hour
+Male,39 - 45,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",Yes,No,No,Less than 1 hour
+Male,32 - 38,Service,Post Graduation,1 Lakh - 3 Lakhs,99,"Yes, charges are too much",Yes,Yes,Yes,1 - 2 hours
+Male,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Yes,No,No,1 - 2 hours
+Female,Below 18,Student,HSC,3 Lakhs - 5 Lakhs,350,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,2 - 4 hours
+Male,Below 18,Student,HSC,1 Lakh - 3 Lakhs,0,"No, charges are affordable",Maybe,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Male,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,2 - 4 hours
+Female,25 - 31,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,475,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Female,25 - 31,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,475,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Male,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,149,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Male,25 - 31,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,300,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,18 - 24,Service,Post Graduation,5 Lakhs - 10 Lakhs,500,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,2 - 4 hours
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,129,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,129,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Male,25 - 31,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,250,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,1 - 2 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Female,25 - 31,Service,Professional Degree,Less than 1 Lakh,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Female,46 - 52,Service,Graduation,1 Lakh - 3 Lakhs,129,"No, charges are affordable",No,Yes,No,2 - 4 hours
+Female,25 - 31,Service,Graduation,5 Lakhs - 10 Lakhs,1300,"No, charges are affordable",No,Yes,Yes,Above 6 hours
+Female,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Female,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,200,"No, charges are affordable",No,Yes,Yes,2 - 4 hours
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,199,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Male,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,1450,"No, charges are affordable",No,Yes,Yes,4 - 6 hours
+Male,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,279,"No, charges are affordable",No,Yes,Yes,2 - 4 hours
+Female,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,200,"Yes, but i'm fine with it as I like the contents",Yes,No,Yes,1 - 2 hours
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,200,"Yes, but i'm fine with it as I like the contents",Yes,No,Yes,1 - 2 hours
+Female,39 - 45,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,0,"No, charges are affordable",Maybe,Yes,No,1 - 2 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,0,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Male,46 - 52,Service,Post Graduation,3 Lakhs - 5 Lakhs,1000,"Yes, charges are too much",Yes,No,Yes,1 - 2 hours
+Female,53 - 59,Unemployed,HSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,Above 6 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,350,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,32 - 38,Service,Post Graduation,3 Lakhs - 5 Lakhs,129,"No, charges are affordable",No,Yes,Yes,4 - 6 hours
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,500,"Yes, charges are too much",Yes,No,No,1 - 2 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, but i'm fine with it as I like the contents",No,Yes,Yes,1 - 2 hours
+Male,18 - 24,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",No,No,Yes,1 - 2 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, but i'm fine with it as I like the contents",No,No,Yes,1 - 2 hours
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Yes,No,Yes,2 - 4 hours
+Female,25 - 31,Student,Post Graduation,1 Lakh - 3 Lakhs,150,"No, charges are affordable",Yes,Yes,Yes,1 - 2 hours
+Female,25 - 31,Student,Post Graduation,1 Lakh - 3 Lakhs,150,"No, charges are affordable",Yes,Yes,Yes,1 - 2 hours
+Female,39 - 45,Unemployed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,Above 6 hours
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,0,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,149,"No, charges are affordable",Maybe,No,Yes,1 - 2 hours
+Female,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,39 - 45,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,18 - 24,Student,Professional Degree,Less than 1 Lakh,0,"Yes, but i'm fine with it as I like the contents",No,No,Yes,1 - 2 hours
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,129,"No, charges are affordable",No,No,No,2 - 4 hours
+Female,18 - 24,Service,Post Graduation,3 Lakhs - 5 Lakhs,300,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Male,25 - 31,Self -  Employed,Post Graduation,More than 10 Lakhs,0,"No, charges are affordable",No,No,Yes,2 - 4 hours
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Male,25 - 31,Service,Professional Degree,5 Lakhs - 10 Lakhs,200,"Yes, but i'm fine with it as I like the contents",Maybe,No,No,1 - 2 hours
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,0,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Female,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,500,"No, charges are affordable",Maybe,No,Yes,4 - 6 hours
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,25 - 31,Service,Professional Degree,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Female,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,39 - 45,Unemployed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,Above 6 hours
+Female,46 - 52,Service,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,53 - 59,Service,Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,39 - 45,Service,Post Graduation,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,46 - 52,Unemployed,HSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,53 - 59,Unemployed,HSC,3 Lakhs - 5 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,4 - 6 hours
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,Below 18,Student,SSC,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Female,32 - 38,Self -  Employed,Professional Degree,More than 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Male,Below 18,Student,Other,1 Lakh - 3 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Yes,Yes,No,Above 6 hours
+Female,46 - 52,Self -  Employed,Doctorate Degree (PhD),More than 10 Lakhs,299,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,32 - 38,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,599,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,46 - 52,Unemployed,HSC,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,25 - 31,Service,Graduation,5 Lakhs - 10 Lakhs,129,"No, charges are affordable",No,Yes,Yes,1 - 2 hours
+Male,53 - 59,Service,Professional Degree,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,2 - 4 hours
+Male,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",No,No,No,Less than 1 hour
+Male,46 - 52,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,0,"Yes, charges are too much",Maybe,No,Yes,2 - 4 hours
+Male,Below 18,Student,HSC,5 Lakhs - 10 Lakhs,1000,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,25 - 31,Self -  Employed,Post Graduation,3 Lakhs - 5 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,32 - 38,Service,Professional Degree,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,1 - 2 hours
+Female,39 - 45,Unemployed,HSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,Above 6 hours
+Female,46 - 52,Self -  Employed,Doctorate Degree (PhD),5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,Less than 1 hour
+Female,46 - 52,Service,Graduation,3 Lakhs - 5 Lakhs,299,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,1 - 2 hours
+Female,53 - 59,Unemployed,HSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,1 - 2 hours
+Female,32 - 38,Service,Graduation,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,25 - 31,Self -  Employed,Post Graduation,More than 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,2 - 4 hours
+Female,39 - 45,Unemployed,HSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,Above 6 hours
+Female,18 - 24,Self -  Employed,HSC,Less than 1 Lakh,210,"No, charges are affordable",No,No,No,Above 6 hours
+Female,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,299,"Yes, but i'm fine with it as I like the contents",Yes,Yes,Yes,Less than 1 hour
+Female,32 - 38,Self -  Employed,Professional Degree,More than 10 Lakhs,0,"No, charges are affordable",Maybe,Yes,Yes,1 - 2 hours
+Female,39 - 45,Unemployed,HSC,1 Lakh - 3 Lakhs,0,"Yes, charges are too much",Maybe,Yes,Yes,Above 6 hours
+Male,32 - 38,Service,Professional Degree,5 Lakhs - 10 Lakhs,199,"Yes, but i'm fine with it as I like the contents",Maybe,Yes,Yes,Less than 1 hour
+Male,Below 18,Student,Other,Less than 1 Lakh,199,"Yes, but i'm fine with it as I like the contents",Yes,No,Yes,1 - 2 hours
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,0,"Yes, but i'm fine with it as I like the contents",Maybe,No,Yes,1 - 2 hours

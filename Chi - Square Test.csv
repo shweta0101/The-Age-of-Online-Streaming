@@ -1,0 +1,730 @@
+Gender,Age,Employment,Education,Income,Awareness
+Male,25 - 31,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Self -  Employed,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,Below 18,Student,HSC,More than 10 Lakhs,Yes
+Male,18 - 24,Unemployed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,More than 10 Lakhs,Yes
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,No
+Male,25 - 31,Student,Professional Degree,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,More than 10 Lakhs,Yes
+Female,18 - 24,Service,Professional Degree,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Professional Degree,Less than 1 Lakh,Yes
+Female,18 - 24,Retired,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,39 - 45,Self -  Employed,Graduation,More than 10 Lakhs,Yes
+Female,32 - 38,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,39 - 45,Self -  Employed,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,No
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,Less than 1 Lakh,Yes
+Male,18 - 24,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Service,Graduation,Less than 1 Lakh,Yes
+Male,25 - 31,Service,Professional Degree,1 Lakh - 3 Lakhs,No
+Male,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,32 - 38,Service,Professional Degree,More than 10 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,Less than 1 Lakh,No
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,32 - 38,Unemployed,Post Graduation,Less than 1 Lakh,No
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,No
+Male,32 - 38,Service,Doctorate Degree,More than 10 Lakhs,Yes
+Female,Below 18,Student,SSC,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,39 - 45,Service,Doctorate Degree,More than 10 Lakhs,Yes
+Male,18 - 24,Student,HSC,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Service,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,53 - 59,Service,Doctorate Degree,More than 10 Lakhs,No
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,No
+Female,39 - 45,Unemployed,SSC,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Professional Degree,1 Lakh - 3 Lakhs,Yes
+Female,32 - 38,Self -  Employed,Post Graduation,Less than 1 Lakh,Yes
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,No
+Male,25 - 31,Service,Graduation,Less than 1 Lakh,Yes
+Female,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,No
+Male,18 - 24,Service,Post Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Graduation,Less than 1 Lakh,Yes
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Service,Post Graduation,Less than 1 Lakh,Yes
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Graduation,More than 10 Lakhs,Yes
+Female,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,No
+Male,25 - 31,Self -  Employed,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,32 - 38,Service,Professional Degree,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Self -  Employed,Post Graduation,More than 10 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,No
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,39 - 45,Service,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,53 - 59,Service,Doctorate Degree,More than 10 Lakhs,No
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,No
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,HSC,1 Lakh - 3 Lakhs,Yes
+Female,32 - 38,House Wife ,HSC,Less than 1 Lakh,No
+Female,32 - 38,House Wife ,HSC,Less than 1 Lakh,No
+Female,46 - 52,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,53 - 59,Service,Post Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Unemployed,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Self -  Employed,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,60 and Above,Retired,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,25 - 31,Service,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Male,46 - 52,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Unemployed,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,25 - 31,Service,Post Graduation,Less than 1 Lakh,Yes
+Male,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,25 - 31,Self -  Employed,Post Graduation,More than 10 Lakhs,No
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Self -  Employed,Professional Degree,Less than 1 Lakh,No
+Male,53 - 59,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,Less than 1 Lakh,Yes
+Female,39 - 45,Service,Post Graduation,Less than 1 Lakh,Yes
+Male,18 - 24,Student,HSC,1 Lakh - 3 Lakhs,Yes
+Male,39 - 45,Self -  Employed,Professional Degree,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Professional Degree,Less than 1 Lakh,Yes
+Female,18 - 24,Service,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,25 - 31,Unemployed,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,No
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,Yes
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,No
+Female,25 - 31,Service,Post Graduation,Less than 1 Lakh,Yes
+Female,46 - 52,Service,Doctorate Degree,5 Lakhs - 10 Lakhs,Yes
+Male,39 - 45,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Service,SSC,Less than 1 Lakh,No
+Male,18 - 24,Student,Post Graduation,Less than 1 Lakh,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Service,Post Graduation,Less than 1 Lakh,Yes
+Male,46 - 52,Service,Professional Degree,More than 10 Lakhs,No
+Male,18 - 24,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,No
+Male,18 - 24,Student,Post Graduation,Less than 1 Lakh,No
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,Less than 1 Lakh,Yes
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,Less than 1 Lakh,Yes
+Male,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,25 - 31,Service,HSC,Less than 1 Lakh,Yes
+Female,18 - 24,Unemployed,Professional Degree,Less than 1 Lakh,Yes
+Male,18 - 24,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,53 - 59,Self -  Employed,Professional Degree,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,No
+Female,32 - 38,Unemployed,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Student,Doctorate Degree,3 Lakhs - 5 Lakhs,Yes
+Female,46 - 52,Unemployed,HSC,1 Lakh - 3 Lakhs,No
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Self -  Employed,Professional Degree,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,More than 10 Lakhs,Yes
+Female,39 - 45,Unemployed,SSC,1 Lakh - 3 Lakhs,No
+Female,39 - 45,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,Below 18,Student,HSC,Less than 1 Lakh,No
+Female,Below 18,Student,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,25 - 31,Unemployed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Female,25 - 31,Unemployed,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,46 - 52,Self -  Employed,HSC,1 Lakh - 3 Lakhs,No
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Unemployed,HSC,1 Lakh - 3 Lakhs,Yes
+Female,46 - 52,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,53 - 59,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,25 - 31,Unemployed,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Professional Degree,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Service,Graduation,Less than 1 Lakh,Yes
+Female,18 - 24,Student,Post Graduation,Less than 1 Lakh,Yes
+Female,46 - 52,Service,Doctorate Degree,More than 10 Lakhs,Yes
+Female,18 - 24,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Service,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Service,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,32 - 38,Service,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Female,60 and Above,House Wife,Below SSC,3 Lakhs - 5 Lakhs,No
+Male,60 and Above,Retired,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Female,25 - 31,Unemployed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,No
+Male,32 - 38,Service,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,53 - 59,Service,SSC,3 Lakhs - 5 Lakhs,Yes
+Female,46 - 52,Unemployed,SSC,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,No
+Male,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,No
+Male,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,53 - 59,House Wife,SSC,1 Lakh - 3 Lakhs,Yes
+Female,Below 18,Student,SSC,Less than 1 Lakh,Yes
+Female,25 - 31,Self -  Employed,SSC,1 Lakh - 3 Lakhs,Yes
+Male,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,No
+Female,53 - 59,Unemployed,HSC,5 Lakhs - 10 Lakhs,No
+Female,46 - 52,Unemployed,HSC,5 Lakhs - 10 Lakhs,Yes
+Female,60 and Above,Unemployed,SSC,1 Lakh - 3 Lakhs,No
+Male,60 and Above,Retired,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,Yes
+Male,Below 18,Student,SSC,3 Lakhs - 5 Lakhs,Yes
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,60 and Above,Retired,SSC,1 Lakh - 3 Lakhs,No
+Female,60 and Above,Unemployed,Below SSC,1 Lakh - 3 Lakhs,No
+Male,60 and Above,Retired,SSC,1 Lakh - 3 Lakhs,No
+Female,53 - 59,Unemployed,Below SSC,1 Lakh - 3 Lakhs,No
+Female,46 - 52,Unemployed,HSC,1 Lakh - 3 Lakhs,No
+Female,46 - 52,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,32 - 38,Unemployed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,Below 18,Student,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,HSC,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,Below 18,Student,HSC,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,Below 18,Student,HSC,1 Lakh - 3 Lakhs,Yes
+Female,25 - 31,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,Below 18,Student,HSC,Less than 1 Lakh,Yes
+Female,18 - 24,Student,Below SSC,Less than 1 Lakh,No
+Male,Below 18,Student,Below SSC,Less than 1 Lakh,Yes
+Male,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Service,Graduation,More than 10 Lakhs,Yes
+Female,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Self -  Employed,Post Graduation,More than 10 Lakhs,Yes
+Female,46 - 52,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,No
+Female,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,No
+Female,39 - 45,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Female,60 and Above,Retired,HSC,1 Lakh - 3 Lakhs,No
+Female,53 - 59,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,No
+Female,46 - 52,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,39 - 45,Self -  Employed,Post Graduation,1 Lakh - 3 Lakhs,No
+Female,25 - 31,Service,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,60 and Above,Retired,HSC,1 Lakh - 3 Lakhs,No
+Female,53 - 59,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Service,Graduation,Less than 1 Lakh,Yes
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,Less than 1 Lakh,Yes
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,Less than 1 Lakh,Yes
+Male,18 - 24,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Service,Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Unemployed,Graduation,Less than 1 Lakh,Yes
+Female,32 - 38,Service,Below SSC,Less than 1 Lakh,No
+Male,18 - 24,Student,HSC,More than 10 Lakhs,Yes
+Female,46 - 52,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,HSC,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,Yes
+Female,53 - 59,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,Below 18,Student,HSC,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Professional Degree,1 Lakh - 3 Lakhs,Yes
+Male,46 - 52,Service,Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Professional Degree,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,HSC,Less than 1 Lakh,No
+Male,39 - 45,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,No
+Male,18 - 24,Student,Professional Degree,Less than 1 Lakh,Yes
+Female,18 - 24,Student,Post Graduation,Less than 1 Lakh,Yes
+Female,18 - 24,Student,Post Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,No
+Male,18 - 24,Service,Professional Degree,More than 10 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,1 Lakh - 3 Lakhs,No
+Male,18 - 24,Unemployed,Professional Degree,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,25 - 31,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,32 - 38,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,39 - 45,Unemployed,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,25 - 31,Student,Graduation,Less than 1 Lakh,Yes
+Female,18 - 24,Student,Graduation,Less than 1 Lakh,Yes
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,HSC,1 Lakh - 3 Lakhs,Yes
+Male,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,HSC,1 Lakh - 3 Lakhs,No
+Male,39 - 45,Service,SSC,Less than 1 Lakh,No
+Male,18 - 24,Student,HSC,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,Below 18,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,46 - 52,Service,Below SSC,Less than 1 Lakh,No
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,No
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Service,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,53 - 59,Self -  Employed,SSC,1 Lakh - 3 Lakhs,Yes
+Male,39 - 45,Self -  Employed,HSC,5 Lakhs - 10 Lakhs,Yes
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,No
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,No
+Male,18 - 24,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,32 - 38,Unemployed,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,32 - 38,Self -  Employed,Post Graduation,More than 10 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,More than 10 Lakhs,Yes
+Male,32 - 38,Service,Post Graduation,More than 10 Lakhs,No
+Male,32 - 38,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,32 - 38,Unemployed,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,60 and Above,Retired,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,60 and Above,Retired,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,60 and Above,Unemployed,HSC,5 Lakhs - 10 Lakhs,Yes
+Female,53 - 59,Unemployed,SSC,3 Lakhs - 5 Lakhs,Yes
+Male,53 - 59,Unemployed,Below SSC,5 Lakhs - 10 Lakhs,No
+Female,53 - 59,Unemployed,SSC,1 Lakh - 3 Lakhs,Yes
+Male,53 - 59,Unemployed,Below SSC,5 Lakhs - 10 Lakhs,No
+Female,46 - 52,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,53 - 59,Unemployed,Below SSC,5 Lakhs - 10 Lakhs,No
+Female,46 - 52,Unemployed,SSC,3 Lakhs - 5 Lakhs,Yes
+Female,46 - 52,Unemployed,SSC,Less than 1 Lakh,Yes
+Female,53 - 59,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Male,53 - 59,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,32 - 38,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,No
+Female,39 - 45,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,46 - 52,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Female,53 - 59,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,53 - 59,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,46 - 52,Self -  Employed,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Unemployed,SSC,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Service,Graduation,Less than 1 Lakh,No
+Male,46 - 52,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,60 and Above,Retired,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,60 and Above,Service,HSC,1 Lakh - 3 Lakhs,Yes
+Female,60 and Above,Retired,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,46 - 52,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Student,Doctorate Degree,5 Lakhs - 10 Lakhs,Yes
+Female,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,46 - 52,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Female,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Unemployed,SSC,5 Lakhs - 10 Lakhs,Yes
+Female,53 - 59,Unemployed,HSC,1 Lakh - 3 Lakhs,Yes
+Male,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Unemployed,SSC,3 Lakhs - 5 Lakhs,Yes
+Male,60 and Above,Retired,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,60 and Above,Unemployed,Below SSC,1 Lakh - 3 Lakhs,Yes
+Female,Below 18,Student,SSC,Less than 1 Lakh,No
+Female,39 - 45,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,60 and Above,Unemployed,Below SSC,Less than 1 Lakh,Yes
+Female,39 - 45,Unemployed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Unemployed,HSC,1 Lakh - 3 Lakhs,Yes
+Male,32 - 38,Service,Professional Degree,1 Lakh - 3 Lakhs,Yes
+Male,32 - 38,Self -  Employed,Professional Degree,3 Lakhs - 5 Lakhs,Yes
+Male,39 - 45,Self -  Employed,Professional Degree,More than 10 Lakhs,Yes
+Male,53 - 59,Service,Graduation,More than 10 Lakhs,Yes
+Female,46 - 52,House Wife,HSC,5 Lakhs - 10 Lakhs,No
+Male,53 - 59,Service,Graduation,3 Lakhs - 5 Lakhs,No
+Male,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,32 - 38,Self -  Employed,Professional Degree,More than 10 Lakhs,Yes
+Female,39 - 45,Service,Professional Degree,5 Lakhs - 10 Lakhs,No
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,53 - 59,Service,HSC,Less than 1 Lakh,No
+Female,46 - 52,Service,SSC,Less than 1 Lakh,No
+Female,60 and Above,House Wife,Below SSC,Less than 1 Lakh,No
+Male,60 and Above,Retired,SSC,Less than 1 Lakh,No
+Female,25 - 31,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,No
+Male,18 - 24,Student,Professional Degree,Less than 1 Lakh,Yes
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,39 - 45,Service,Post Graduation,More than 10 Lakhs,Yes
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,60 and Above,House Wife,Below SSC,Less than 1 Lakh,No
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,Less than 1 Lakh,Yes
+Female,46 - 52,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Unemployed,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,53 - 59,Unemployed,SSC,3 Lakhs - 5 Lakhs,Yes
+Female,60 and Above,Retired,Graduation,More than 10 Lakhs,Yes
+Female,53 - 59,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,53 - 59,Service,HSC,5 Lakhs - 10 Lakhs,No
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,46 - 52,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,25 - 31,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,46 - 52,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,46 - 52,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,60 and Above,House Wife,Below SSC,More than 10 Lakhs,No
+Male,Below 18,Student,Graduation,Less than 1 Lakh,Yes
+Female,39 - 45,Service,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Male,53 - 59,Retired,SSC,5 Lakhs - 10 Lakhs,No
+Female,18 - 24,Student,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,60 and Above,House Wife,Below SSC,3 Lakhs - 5 Lakhs,No
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,No
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,More than 10 Lakhs,Yes
+Female,39 - 45,Unemployed,Graduation,3 Lakhs - 5 Lakhs,No
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,No
+Male,25 - 31,Service,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,Yes
+Female,39 - 45,House Wife ,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Unemployed,Post Graduation,Less than 1 Lakh,Yes
+Female,32 - 38,Service,HSC,3 Lakhs - 5 Lakhs,No
+Male,25 - 31,Service,Professional Degree,More than 10 Lakhs,Yes
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,HSC,Less than 1 Lakh,Yes
+Male,Below 18,Student,HSC,Less than 1 Lakh,Yes
+Female,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,46 - 52,Service,SSC,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,Below 18,Student,HSC,Less than 1 Lakh,Yes
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Service,Doctorate Degree,More than 10 Lakhs,Yes
+Female,18 - 24,Student,Professional Degree,1 Lakh - 3 Lakhs,Yes
+Male,Below 18,Student,HSC,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,Yes
+Male,46 - 52,Service,Below SSC,Less than 1 Lakh,Yes
+Female,39 - 45,Service,Below SSC,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,Less than 1 Lakh,No
+Male,46 - 52,Service,SSC,1 Lakh - 3 Lakhs,Yes
+Female,46 - 52,Service,Below SSC,Less than 1 Lakh,No
+Male,32 - 38,Service,SSC,1 Lakh - 3 Lakhs,Yes
+Female,46 - 52,Service,SSC,Less than 1 Lakh,No
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,32 - 38,Student,Graduation,Less than 1 Lakh,Yes
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Graduation,Less than 1 Lakh,No
+Female,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,No
+Male,18 - 24,Student,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Service,SSC,Less than 1 Lakh,No
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,No
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,60 and Above,Retired,Graduation,3 Lakhs - 5 Lakhs,No
+Female,60 and Above,House Wife,Below SSC,1 Lakh - 3 Lakhs,No
+Female,60 and Above,House Wife,Below SSC,1 Lakh - 3 Lakhs,No
+Female,60 and Above,House Wife,Below SSC,1 Lakh - 3 Lakhs,No
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Female,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,Yes
+Male,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,Yes
+Male,Below 18,Student,SSC,5 Lakhs - 10 Lakhs,Yes
+Male,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,32 - 38,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,32 - 38,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Post Graduation,Less than 1 Lakh,Yes
+Female,25 - 31,House Wife,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,53 - 59,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,Less than 1 Lakh,Yes
+Male,18 - 24,Student,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,No
+Female,Below 18,Student,SSC,1 Lakh - 3 Lakhs,Yes
+Female,Below 18,Student,SSC,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Post Graduation,More than 10 Lakhs,Yes
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,25 - 31,Service,Post Graduation,More than 10 Lakhs,Yes
+Female,18 - 24,Student,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,53 - 59,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,53 - 59,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,53 - 59,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,53 - 59,Service,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,46 - 52,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,46 - 52,Self -  Employed,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,46 - 52,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Female,46 - 52,Unemployed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,46 - 52,Self -  Employed,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Self -  Employed,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,39 - 45,Unemployed,SSC,1 Lakh - 3 Lakhs,Yes
+Male,39 - 45,Self -  Employed,Doctorate Degree,More than 10 Lakhs,Yes
+Male,39 - 45,Service,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Service,HSC,1 Lakh - 3 Lakhs,Yes
+Female,39 - 45,Self -  Employed,HSC,1 Lakh - 3 Lakhs,Yes
+Male,39 - 45,Self -  Employed,Professional Degree,1 Lakh - 3 Lakhs,Yes
+Male,39 - 45,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,39 - 45,Service,Doctorate Degree,More than 10 Lakhs,Yes
+Female,39 - 45,Unemployed,HSC,5 Lakhs - 10 Lakhs,Yes
+Female,39 - 45,Unemployed,SSC,1 Lakh - 3 Lakhs,Yes
+Male,53 - 59,Service,Professional Degree,More than 10 Lakhs,Yes
+Female,53 - 59,Unemployed,SSC,1 Lakh - 3 Lakhs,Yes
+Female,60 and Above,Unemployed,HSC,1 Lakh - 3 Lakhs,Yes
+Female,60 and Above,Unemployed,SSC,1 Lakh - 3 Lakhs,Yes
+Male,60 and Above,Retired,HSC,1 Lakh - 3 Lakhs,Yes
+Male,60 and Above,Retired,SSC,1 Lakh - 3 Lakhs,Yes
+Female,53 - 59,Unemployed,SSC,1 Lakh - 3 Lakhs,Yes
+Male,Below 18,Student,SSC,5 Lakhs - 10 Lakhs,Yes
+Male,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,Yes
+Female,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,Yes
+Male,Below 18,Student,SSC,5 Lakhs - 10 Lakhs,Yes
+Male,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,No
+Male,32 - 38,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,No
+Male,39 - 45,Service,Post Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Service,Post Graduation,5 Lakhs - 10 Lakhs,No
+Female,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,60 and Above,Retired,SSC,5 Lakhs - 10 Lakhs,No
+Male,60 and Above,Retired,Below SSC,5 Lakhs - 10 Lakhs,No
+Female,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,53 - 59,Service,HSC,1 Lakh - 3 Lakhs,Yes
+Male,32 - 38,Service,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,No
+Female,39 - 45,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Service,Professional Degree,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Unemployed,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,53 - 59,Service,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,Below 18,Student,Below SSC,1 Lakh - 3 Lakhs,No
+Female,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,39 - 45,Service,Graduation,More than 10 Lakhs,No
+Male,39 - 45,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,39 - 45,Service,Post Graduation,More than 10 Lakhs,Yes
+Female,46 - 52,Service,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Female,53 - 59,Unemployed,SSC,1 Lakh - 3 Lakhs,Yes
+Female,46 - 52,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Unemployed,HSC,5 Lakhs - 10 Lakhs,Yes
+Female,46 - 52,Unemployed,SSC,1 Lakh - 3 Lakhs,Yes
+Male,60 and Above,Retired,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,53 - 59,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Unemployed,SSC,1 Lakh - 3 Lakhs,Yes
+Female,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,39 - 45,Service,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Female,25 - 31,Self -  Employed,Professional Degree,3 Lakhs - 5 Lakhs,Yes
+Male,39 - 45,Service,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,32 - 38,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,39 - 45,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,32 - 38,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,39 - 45,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Professional Degree,1 Lakh - 3 Lakhs,No
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,Less than 1 Lakh,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,Less than 1 Lakh,Yes
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Female,Below 18,Student,Below SSC,5 Lakhs - 10 Lakhs,Yes
+Female,39 - 45,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,25 - 31,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,32 - 38,Unemployed,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Unemployed,Graduation,1 Lakh - 3 Lakhs,No
+Female,32 - 38,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Self -  Employed,Graduation,1 Lakh - 3 Lakhs,No
+Male,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,32 - 38,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,32 - 38,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,18 - 24,Self -  Employed,HSC,Less than 1 Lakh,Yes
+Female,Below 18,Student,Below SSC,Less than 1 Lakh,Yes
+Male,39 - 45,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,39 - 45,Service,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Service,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,39 - 45,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,53 - 59,Service,Doctorate Degree,1 Lakh - 3 Lakhs,Yes
+Male,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,Below 18,Student,HSC,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,53 - 59,Retired,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,46 - 52,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Female,53 - 59,Retired,Below SSC,3 Lakhs - 5 Lakhs,No
+Male,60 and Above,Retired,SSC,3 Lakhs - 5 Lakhs,No
+Female,25 - 31,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,60 and Above,House Wife,Below SSC,Less than 1 Lakh,No
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,60 and Above,House Wife,Below SSC,1 Lakh - 3 Lakhs,No
+Male,46 - 52,Service,HSC,Less than 1 Lakh,Yes
+Female,46 - 52,Service,SSC,5 Lakhs - 10 Lakhs,No
+Male,46 - 52,Service,HSC,Less than 1 Lakh,Yes
+Male,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,46 - 52,Service,Below SSC,Less than 1 Lakh,No
+Male,32 - 38,Self -  Employed,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Self -  Employed,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,46 - 52,Service,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Unemployed,HSC,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,32 - 38,Service,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,18 - 24,Student,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,25 - 31,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,25 - 31,Student,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,39 - 45,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,18 - 24,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Service,Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Self -  Employed,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Male,32 - 38,Service,Graduation,3 Lakhs - 5 Lakhs,No
+Female,18 - 24,Service,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Self -  Employed,Post Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Student,Graduation,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Service,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Male,60 and Above,Retired,Graduation,5 Lakhs - 10 Lakhs,No
+Female,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Female,25 - 31,Service,Professional Degree,5 Lakhs - 10 Lakhs,Yes
+Female,32 - 38,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,39 - 45,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,53 - 59,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,46 - 52,Unemployed,HSC,1 Lakh - 3 Lakhs,Yes
+Female,Below 18,Student,Below SSC,3 Lakhs - 5 Lakhs,Yes
+Female,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,32 - 38,Self -  Employed,Professional Degree,More than 10 Lakhs,Yes
+Male,Below 18,Student,Professional Degree,1 Lakh - 3 Lakhs,No
+Female,46 - 52,Unemployed,HSC,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Service,Graduation,5 Lakhs - 10 Lakhs,Yes
+Male,53 - 59,Service,Professional Degree,3 Lakhs - 5 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,1 Lakh - 3 Lakhs,Yes
+Male,Below 18,Student,HSC,5 Lakhs - 10 Lakhs,Yes
+Female,25 - 31,Self -  Employed,Post Graduation,3 Lakhs - 5 Lakhs,Yes
+Female,39 - 45,Unemployed,HSC,1 Lakh - 3 Lakhs,Yes
+Female,46 - 52,Self -  Employed,Doctorate Degree,5 Lakhs - 10 Lakhs,Yes
+Male,Below 18,Student,HSC,3 Lakhs - 5 Lakhs,Yes
+Female,25 - 31,Self -  Employed,Post Graduation,More than 10 Lakhs,Yes
+Male,18 - 24,Student,HSC,1 Lakh - 3 Lakhs,Yes
+Female,39 - 45,Unemployed,HSC,1 Lakh - 3 Lakhs,Yes
+Female,18 - 24,Self -  Employed,HSC,Less than 1 Lakh,Yes
+Female,32 - 38,Self -  Employed,Professional Degree,More than 10 Lakhs,Yes
+Female,39 - 45,Service,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,Below 18,Student,SSC,1 Lakh - 3 Lakhs,Yes
+Male,25 - 31,Service,Post Graduation,5 Lakhs - 10 Lakhs,Yes
+Female,18 - 24,Student,Graduation,1 Lakh - 3 Lakhs,Yes
+Male,Below 18,Student,SSC,Less than 1 Lakh,Yes
